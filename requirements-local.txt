@@ -1,0 +1,5 @@
+# Additional deps for LOCAL ingestion (run on your machine, not in production)
+# Install with: pip install -r requirements-local.txt
+
+-r requirements.txt
+sentence-transformers>=2.2.0

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+logs/*.jsonl
+data/processed/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+# NOTE: data/vector_store/ is NOT ignored — commit it for production deployment

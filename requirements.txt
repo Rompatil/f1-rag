@@ -1,0 +1,16 @@
+# F1 RAG System — Production Dependencies (lightweight, no torch)
+
+# API
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+
+# HTTP client (for Claude API + Voyage API)
+httpx>=0.25.0
+
+# Vector Store
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+
+# Data processing
+pandas>=2.1.0

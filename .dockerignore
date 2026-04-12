@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+.pytest_cache
+.git
+.env
+logs/*.jsonl
+tests/
+requirements-local.txt
+build_index.py
+fetch_data.py
