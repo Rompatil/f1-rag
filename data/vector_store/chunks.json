@@ -19833,7 +19833,7 @@
   {
     "chunk_id": "driver_career_9",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jack Aitken\nNationality: British\nDate of Birth: 1995-09-23\nActive Seasons (in dataset): 2020\nTeams: Williams\nTotal Races (in dataset): 1\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Jack Aitken — All-Time Career Statistics\nCareer total wins for Jack Aitken: 0\nCareer total podiums for Jack Aitken: 0\nCareer total points for Jack Aitken: 0.0\nCareer total races for Jack Aitken: 1\nNationality: British\nDate of Birth: 1995-09-23\nActive Seasons (in dataset): 2020\nTeams: Williams",
     "metadata": {
       "driverId": 9,
       "driver_name": "Jack Aitken"
@@ -19842,7 +19842,7 @@
   {
     "chunk_id": "driver_career_10",
     "category": "driver_career",
-    "content": "Driver Career Profile: Christijan Albers\nNationality: Dutch\nDate of Birth: 1979-04-16\nActive Seasons (in dataset): 2005, 2006, 2007\nTeams: Minardi, MF1, Spyker MF1, Spyker\nTotal Races (in dataset): 46\nWins: 0\nPodiums: 0\nTotal Points: 4.0",
+    "content": "Driver Career Profile: Christijan Albers — All-Time Career Statistics\nCareer total wins for Christijan Albers: 0\nCareer total podiums for Christijan Albers: 0\nCareer total points for Christijan Albers: 4.0\nCareer total races for Christijan Albers: 46\nNationality: Dutch\nDate of Birth: 1979-04-16\nActive Seasons (in dataset): 2005, 2006, 2007\nTeams: Minardi, MF1, Spyker MF1, Spyker",
     "metadata": {
       "driverId": 10,
       "driver_name": "Christijan Albers"
@@ -19851,7 +19851,7 @@
   {
     "chunk_id": "driver_career_11",
     "category": "driver_career",
-    "content": "Driver Career Profile: Alexander Albon\nNationality: Thai\nDate of Birth: 1996-03-23\nActive Seasons (in dataset): 2019, 2020, 2022, 2023, 2024, 2025, 2026\nTeams: Toro Rosso, Red Bull, Williams\nTotal Races (in dataset): 132\nWins: 0\nPodiums: 2\nTotal Points: 308.0",
+    "content": "Driver Career Profile: Alexander Albon — All-Time Career Statistics\nCareer total wins for Alexander Albon: 0\nCareer total podiums for Alexander Albon: 2\nCareer total points for Alexander Albon: 308.0\nCareer total races for Alexander Albon: 132\nNationality: Thai\nDate of Birth: 1996-03-23\nActive Seasons (in dataset): 2019, 2020, 2022, 2023, 2024, 2025, 2026\nTeams: Toro Rosso, Red Bull, Williams",
     "metadata": {
       "driverId": 11,
       "driver_name": "Alexander Albon"
@@ -19860,7 +19860,7 @@
   {
     "chunk_id": "driver_career_13",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jean Alesi\nNationality: French\nDate of Birth: 1964-06-11\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2001\nTeams: Ferrari, Benetton, Sauber, Prost, Jordan\nTotal Races (in dataset): 116\nWins: 1\nPodiums: 19\nTotal Points: 141.0",
+    "content": "Driver Career Profile: Jean Alesi — All-Time Career Statistics\nCareer total wins for Jean Alesi: 1\nCareer total podiums for Jean Alesi: 19\nCareer total points for Jean Alesi: 141.0\nCareer total races for Jean Alesi: 116\nNationality: French\nDate of Birth: 1964-06-11\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2001\nTeams: Ferrari, Benetton, Sauber, Prost, Jordan",
     "metadata": {
       "driverId": 13,
       "driver_name": "Jean Alesi"
@@ -19869,7 +19869,7 @@
   {
     "chunk_id": "driver_career_14",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jaime Alguersuari\nNationality: Spanish\nDate of Birth: 1990-03-23\nActive Seasons (in dataset): 2009, 2010, 2011\nTeams: Toro Rosso\nTotal Races (in dataset): 46\nWins: 0\nPodiums: 0\nTotal Points: 31.0",
+    "content": "Driver Career Profile: Jaime Alguersuari — All-Time Career Statistics\nCareer total wins for Jaime Alguersuari: 0\nCareer total podiums for Jaime Alguersuari: 0\nCareer total points for Jaime Alguersuari: 31.0\nCareer total races for Jaime Alguersuari: 46\nNationality: Spanish\nDate of Birth: 1990-03-23\nActive Seasons (in dataset): 2009, 2010, 2011\nTeams: Toro Rosso",
     "metadata": {
       "driverId": 14,
       "driver_name": "Jaime Alguersuari"
@@ -19878,7 +19878,7 @@
   {
     "chunk_id": "driver_career_17",
     "category": "driver_career",
-    "content": "Driver Career Profile: Fernando Alonso\nNationality: Spanish\nDate of Birth: 1981-07-29\nActive Seasons (in dataset): 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Minardi, Renault, McLaren, Ferrari, Alpine F1 Team, Aston Martin\nTotal Races (in dataset): 431\nWins: 32\nPodiums: 106\nTotal Points: 2380.0\nWorld Championships: 2005, 2006",
+    "content": "Driver Career Profile: Fernando Alonso — All-Time Career Statistics\nCareer total wins for Fernando Alonso: 32\nCareer total podiums for Fernando Alonso: 106\nCareer total points for Fernando Alonso: 2380.0\nCareer total races for Fernando Alonso: 431\nNationality: Spanish\nDate of Birth: 1981-07-29\nActive Seasons (in dataset): 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Minardi, Renault, McLaren, Ferrari, Alpine F1 Team, Aston Martin\nWorld Championship titles: 2005, 2006",
     "metadata": {
       "driverId": 17,
       "driver_name": "Fernando Alonso"
@@ -19887,7 +19887,7 @@
   {
     "chunk_id": "driver_career_27",
     "category": "driver_career",
-    "content": "Driver Career Profile: Andrea Kimi Antonelli\nNationality: Italian\nDate of Birth: 2006-08-25\nActive Seasons (in dataset): 2025, 2026\nTeams: Mercedes\nTotal Races (in dataset): 27\nWins: 2\nPodiums: 6\nTotal Points: 203.0\nWorld Championships: 2026",
+    "content": "Driver Career Profile: Andrea Kimi Antonelli — All-Time Career Statistics\nCareer total wins for Andrea Kimi Antonelli: 2\nCareer total podiums for Andrea Kimi Antonelli: 6\nCareer total points for Andrea Kimi Antonelli: 203.0\nCareer total races for Andrea Kimi Antonelli: 27\nNationality: Italian\nDate of Birth: 2006-08-25\nActive Seasons (in dataset): 2025, 2026\nTeams: Mercedes\nWorld Championship titles: 2026",
     "metadata": {
       "driverId": 27,
       "driver_name": "Andrea Kimi Antonelli"
@@ -19896,7 +19896,7 @@
   {
     "chunk_id": "driver_career_41",
     "category": "driver_career",
-    "content": "Driver Career Profile: Luca Badoer\nNationality: Italian\nDate of Birth: 1971-01-25\nActive Seasons (in dataset): 1995, 1996, 1999, 2009\nTeams: Minardi, Forti, Ferrari\nTotal Races (in dataset): 40\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Luca Badoer — All-Time Career Statistics\nCareer total wins for Luca Badoer: 0\nCareer total podiums for Luca Badoer: 0\nCareer total points for Luca Badoer: 0.0\nCareer total races for Luca Badoer: 40\nNationality: Italian\nDate of Birth: 1971-01-25\nActive Seasons (in dataset): 1995, 1996, 1999, 2009\nTeams: Minardi, Forti, Ferrari",
     "metadata": {
       "driverId": 41,
       "driver_name": "Luca Badoer"
@@ -19905,7 +19905,7 @@
   {
     "chunk_id": "driver_career_53",
     "category": "driver_career",
-    "content": "Driver Career Profile: Rubens Barrichello\nNationality: Brazilian\nDate of Birth: 1972-05-23\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011\nTeams: Jordan, Stewart, Ferrari, Honda, Brawn, Williams\nTotal Races (in dataset): 294\nWins: 11\nPodiums: 67\nTotal Points: 637.0",
+    "content": "Driver Career Profile: Rubens Barrichello — All-Time Career Statistics\nCareer total wins for Rubens Barrichello: 11\nCareer total podiums for Rubens Barrichello: 67\nCareer total points for Rubens Barrichello: 637.0\nCareer total races for Rubens Barrichello: 294\nNationality: Brazilian\nDate of Birth: 1972-05-23\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011\nTeams: Jordan, Stewart, Ferrari, Honda, Brawn, Williams",
     "metadata": {
       "driverId": 53,
       "driver_name": "Rubens Barrichello"
@@ -19914,7 +19914,7 @@
   {
     "chunk_id": "driver_career_58",
     "category": "driver_career",
-    "content": "Driver Career Profile: Zsolt Baumgartner\nNationality: Hungarian\nDate of Birth: 1981-01-01\nActive Seasons (in dataset): 2003, 2004\nTeams: Jordan, Minardi\nTotal Races (in dataset): 20\nWins: 0\nPodiums: 0\nTotal Points: 1.0",
+    "content": "Driver Career Profile: Zsolt Baumgartner — All-Time Career Statistics\nCareer total wins for Zsolt Baumgartner: 0\nCareer total podiums for Zsolt Baumgartner: 0\nCareer total points for Zsolt Baumgartner: 1.0\nCareer total races for Zsolt Baumgartner: 20\nNationality: Hungarian\nDate of Birth: 1981-01-01\nActive Seasons (in dataset): 2003, 2004\nTeams: Jordan, Minardi",
     "metadata": {
       "driverId": 58,
       "driver_name": "Zsolt Baumgartner"
@@ -19923,7 +19923,7 @@
   {
     "chunk_id": "driver_career_60",
     "category": "driver_career",
-    "content": "Driver Career Profile: Oliver Bearman\nNationality: British\nDate of Birth: 2005-05-08\nActive Seasons (in dataset): 2024, 2025, 2026\nTeams: Ferrari, Haas F1 Team\nTotal Races (in dataset): 30\nWins: 0\nPodiums: 0\nTotal Points: 62.0",
+    "content": "Driver Career Profile: Oliver Bearman — All-Time Career Statistics\nCareer total wins for Oliver Bearman: 0\nCareer total podiums for Oliver Bearman: 0\nCareer total points for Oliver Bearman: 62.0\nCareer total races for Oliver Bearman: 30\nNationality: British\nDate of Birth: 2005-05-08\nActive Seasons (in dataset): 2024, 2025, 2026\nTeams: Ferrari, Haas F1 Team",
     "metadata": {
       "driverId": 60,
       "driver_name": "Oliver Bearman"
@@ -19932,7 +19932,7 @@
   {
     "chunk_id": "driver_career_73",
     "category": "driver_career",
-    "content": "Driver Career Profile: Gerhard Berger\nNationality: Austrian\nDate of Birth: 1959-08-27\nActive Seasons (in dataset): 1995, 1996, 1997\nTeams: Ferrari, Benetton\nTotal Races (in dataset): 47\nWins: 1\nPodiums: 10\nTotal Points: 79.0",
+    "content": "Driver Career Profile: Gerhard Berger — All-Time Career Statistics\nCareer total wins for Gerhard Berger: 1\nCareer total podiums for Gerhard Berger: 10\nCareer total points for Gerhard Berger: 79.0\nCareer total races for Gerhard Berger: 47\nNationality: Austrian\nDate of Birth: 1959-08-27\nActive Seasons (in dataset): 1995, 1996, 1997\nTeams: Ferrari, Benetton",
     "metadata": {
       "driverId": 73,
       "driver_name": "Gerhard Berger"
@@ -19941,7 +19941,7 @@
   {
     "chunk_id": "driver_career_75",
     "category": "driver_career",
-    "content": "Driver Career Profile: Enrique Bernoldi\nNationality: Brazilian\nDate of Birth: 1978-10-19\nActive Seasons (in dataset): 2001, 2002\nTeams: Arrows\nTotal Races (in dataset): 28\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Enrique Bernoldi — All-Time Career Statistics\nCareer total wins for Enrique Bernoldi: 0\nCareer total podiums for Enrique Bernoldi: 0\nCareer total points for Enrique Bernoldi: 0.0\nCareer total races for Enrique Bernoldi: 28\nNationality: Brazilian\nDate of Birth: 1978-10-19\nActive Seasons (in dataset): 2001, 2002\nTeams: Arrows",
     "metadata": {
       "driverId": 75,
       "driver_name": "Enrique Bernoldi"
@@ -19950,7 +19950,7 @@
   {
     "chunk_id": "driver_career_80",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jules Bianchi\nNationality: French\nDate of Birth: 1989-08-03\nActive Seasons (in dataset): 2013, 2014\nTeams: Marussia\nTotal Races (in dataset): 34\nWins: 0\nPodiums: 0\nTotal Points: 2.0",
+    "content": "Driver Career Profile: Jules Bianchi — All-Time Career Statistics\nCareer total wins for Jules Bianchi: 0\nCareer total podiums for Jules Bianchi: 0\nCareer total points for Jules Bianchi: 2.0\nCareer total races for Jules Bianchi: 34\nNationality: French\nDate of Birth: 1989-08-03\nActive Seasons (in dataset): 2013, 2014\nTeams: Marussia",
     "metadata": {
       "driverId": 80,
       "driver_name": "Jules Bianchi"
@@ -19959,7 +19959,7 @@
   {
     "chunk_id": "driver_career_91",
     "category": "driver_career",
-    "content": "Driver Career Profile: Mark Blundell\nNationality: British\nDate of Birth: 1966-04-08\nActive Seasons (in dataset): 1995\nTeams: McLaren\nTotal Races (in dataset): 15\nWins: 0\nPodiums: 0\nTotal Points: 13.0",
+    "content": "Driver Career Profile: Mark Blundell — All-Time Career Statistics\nCareer total wins for Mark Blundell: 0\nCareer total podiums for Mark Blundell: 0\nCareer total points for Mark Blundell: 13.0\nCareer total races for Mark Blundell: 15\nNationality: British\nDate of Birth: 1966-04-08\nActive Seasons (in dataset): 1995\nTeams: McLaren",
     "metadata": {
       "driverId": 91,
       "driver_name": "Mark Blundell"
@@ -19968,7 +19968,7 @@
   {
     "chunk_id": "driver_career_100",
     "category": "driver_career",
-    "content": "Driver Career Profile: Gabriel Bortoleto\nNationality: Brazilian\nDate of Birth: 2004-10-14\nActive Seasons (in dataset): 2025, 2026\nTeams: Sauber, Audi\nTotal Races (in dataset): 27\nWins: 0\nPodiums: 0\nTotal Points: 21.0",
+    "content": "Driver Career Profile: Gabriel Bortoleto — All-Time Career Statistics\nCareer total wins for Gabriel Bortoleto: 0\nCareer total podiums for Gabriel Bortoleto: 0\nCareer total points for Gabriel Bortoleto: 21.0\nCareer total races for Gabriel Bortoleto: 27\nNationality: Brazilian\nDate of Birth: 2004-10-14\nActive Seasons (in dataset): 2025, 2026\nTeams: Sauber, Audi",
     "metadata": {
       "driverId": 100,
       "driver_name": "Gabriel Bortoleto"
@@ -19977,7 +19977,7 @@
   {
     "chunk_id": "driver_career_102",
     "category": "driver_career",
-    "content": "Driver Career Profile: Valtteri Bottas\nNationality: Finnish\nDate of Birth: 1989-08-28\nActive Seasons (in dataset): 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2026\nTeams: Williams, Mercedes, Alfa Romeo, Sauber, Cadillac F1 Team\nTotal Races (in dataset): 250\nWins: 10\nPodiums: 67\nTotal Points: 1788.0",
+    "content": "Driver Career Profile: Valtteri Bottas — All-Time Career Statistics\nCareer total wins for Valtteri Bottas: 10\nCareer total podiums for Valtteri Bottas: 67\nCareer total points for Valtteri Bottas: 1788.0\nCareer total races for Valtteri Bottas: 250\nNationality: Finnish\nDate of Birth: 1989-08-28\nActive Seasons (in dataset): 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2026\nTeams: Williams, Mercedes, Alfa Romeo, Sauber, Cadillac F1 Team",
     "metadata": {
       "driverId": 102,
       "driver_name": "Valtteri Bottas"
@@ -19986,7 +19986,7 @@
   {
     "chunk_id": "driver_career_103",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jean-Christophe Boullion\nNationality: French\nDate of Birth: 1969-12-27\nActive Seasons (in dataset): 1995\nTeams: Sauber\nTotal Races (in dataset): 11\nWins: 0\nPodiums: 0\nTotal Points: 3.0",
+    "content": "Driver Career Profile: Jean-Christophe Boullion — All-Time Career Statistics\nCareer total wins for Jean-Christophe Boullion: 0\nCareer total podiums for Jean-Christophe Boullion: 0\nCareer total points for Jean-Christophe Boullion: 3.0\nCareer total races for Jean-Christophe Boullion: 11\nNationality: French\nDate of Birth: 1969-12-27\nActive Seasons (in dataset): 1995\nTeams: Sauber",
     "metadata": {
       "driverId": 103,
       "driver_name": "Jean-Christophe Boullion"
@@ -19995,7 +19995,7 @@
   {
     "chunk_id": "driver_career_104",
     "category": "driver_career",
-    "content": "Driver Career Profile: Sébastien Bourdais\nNationality: French\nDate of Birth: 1979-02-28\nActive Seasons (in dataset): 2008, 2009\nTeams: Toro Rosso\nTotal Races (in dataset): 27\nWins: 0\nPodiums: 0\nTotal Points: 6.0",
+    "content": "Driver Career Profile: Sébastien Bourdais — All-Time Career Statistics\nCareer total wins for Sébastien Bourdais: 0\nCareer total podiums for Sébastien Bourdais: 0\nCareer total points for Sébastien Bourdais: 6.0\nCareer total races for Sébastien Bourdais: 27\nNationality: French\nDate of Birth: 1979-02-28\nActive Seasons (in dataset): 2008, 2009\nTeams: Toro Rosso",
     "metadata": {
       "driverId": 104,
       "driver_name": "Sébastien Bourdais"
@@ -20004,7 +20004,7 @@
   {
     "chunk_id": "driver_career_127",
     "category": "driver_career",
-    "content": "Driver Career Profile: Martin Brundle\nNationality: British\nDate of Birth: 1959-06-01\nActive Seasons (in dataset): 1995, 1996\nTeams: Ligier, Jordan\nTotal Races (in dataset): 27\nWins: 0\nPodiums: 1\nTotal Points: 15.0",
+    "content": "Driver Career Profile: Martin Brundle — All-Time Career Statistics\nCareer total wins for Martin Brundle: 0\nCareer total podiums for Martin Brundle: 1\nCareer total points for Martin Brundle: 15.0\nCareer total races for Martin Brundle: 27\nNationality: British\nDate of Birth: 1959-06-01\nActive Seasons (in dataset): 1995, 1996\nTeams: Ligier, Jordan",
     "metadata": {
       "driverId": 127,
       "driver_name": "Martin Brundle"
@@ -20013,7 +20013,7 @@
   {
     "chunk_id": "driver_career_128",
     "category": "driver_career",
-    "content": "Driver Career Profile: Gianmaria Bruni\nNationality: Italian\nDate of Birth: 1981-05-30\nActive Seasons (in dataset): 2004\nTeams: Minardi\nTotal Races (in dataset): 18\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Gianmaria Bruni — All-Time Career Statistics\nCareer total wins for Gianmaria Bruni: 0\nCareer total podiums for Gianmaria Bruni: 0\nCareer total points for Gianmaria Bruni: 0.0\nCareer total races for Gianmaria Bruni: 18\nNationality: Italian\nDate of Birth: 1981-05-30\nActive Seasons (in dataset): 2004\nTeams: Minardi",
     "metadata": {
       "driverId": 128,
       "driver_name": "Gianmaria Bruni"
@@ -20022,7 +20022,7 @@
   {
     "chunk_id": "driver_career_133",
     "category": "driver_career",
-    "content": "Driver Career Profile: Sébastien Buemi\nNationality: Swiss\nDate of Birth: 1988-10-31\nActive Seasons (in dataset): 2009, 2010, 2011\nTeams: Toro Rosso\nTotal Races (in dataset): 55\nWins: 0\nPodiums: 0\nTotal Points: 29.0",
+    "content": "Driver Career Profile: Sébastien Buemi — All-Time Career Statistics\nCareer total wins for Sébastien Buemi: 0\nCareer total podiums for Sébastien Buemi: 0\nCareer total points for Sébastien Buemi: 29.0\nCareer total races for Sébastien Buemi: 55\nNationality: Swiss\nDate of Birth: 1988-10-31\nActive Seasons (in dataset): 2009, 2010, 2011\nTeams: Toro Rosso",
     "metadata": {
       "driverId": 133,
       "driver_name": "Sébastien Buemi"
@@ -20031,7 +20031,7 @@
   {
     "chunk_id": "driver_career_136",
     "category": "driver_career",
-    "content": "Driver Career Profile: Luciano Burti\nNationality: Brazilian\nDate of Birth: 1975-03-05\nActive Seasons (in dataset): 2000, 2001\nTeams: Jaguar, Prost\nTotal Races (in dataset): 15\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Luciano Burti — All-Time Career Statistics\nCareer total wins for Luciano Burti: 0\nCareer total podiums for Luciano Burti: 0\nCareer total points for Luciano Burti: 0.0\nCareer total races for Luciano Burti: 15\nNationality: Brazilian\nDate of Birth: 1975-03-05\nActive Seasons (in dataset): 2000, 2001\nTeams: Jaguar, Prost",
     "metadata": {
       "driverId": 136,
       "driver_name": "Luciano Burti"
@@ -20040,7 +20040,7 @@
   {
     "chunk_id": "driver_career_138",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jenson Button\nNationality: British\nDate of Birth: 1980-01-19\nActive Seasons (in dataset): 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017\nTeams: Williams, Benetton, Renault, BAR, Honda, Brawn, McLaren\nTotal Races (in dataset): 309\nWins: 15\nPodiums: 50\nTotal Points: 1235.0\nWorld Championships: 2009",
+    "content": "Driver Career Profile: Jenson Button — All-Time Career Statistics\nCareer total wins for Jenson Button: 15\nCareer total podiums for Jenson Button: 50\nCareer total points for Jenson Button: 1235.0\nCareer total races for Jenson Button: 309\nNationality: British\nDate of Birth: 1980-01-19\nActive Seasons (in dataset): 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017\nTeams: Williams, Benetton, Renault, BAR, Honda, Brawn, McLaren\nWorld Championship titles: 2009",
     "metadata": {
       "driverId": 138,
       "driver_name": "Jenson Button"
@@ -20049,7 +20049,7 @@
   {
     "chunk_id": "driver_career_158",
     "category": "driver_career",
-    "content": "Driver Career Profile: Karun Chandhok\nNationality: Indian\nDate of Birth: 1984-01-19\nActive Seasons (in dataset): 2010, 2011\nTeams: HRT, Lotus\nTotal Races (in dataset): 11\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Karun Chandhok — All-Time Career Statistics\nCareer total wins for Karun Chandhok: 0\nCareer total podiums for Karun Chandhok: 0\nCareer total points for Karun Chandhok: 0.0\nCareer total races for Karun Chandhok: 11\nNationality: Indian\nDate of Birth: 1984-01-19\nActive Seasons (in dataset): 2010, 2011\nTeams: HRT, Lotus",
     "metadata": {
       "driverId": 158,
       "driver_name": "Karun Chandhok"
@@ -20058,7 +20058,7 @@
   {
     "chunk_id": "driver_career_165",
     "category": "driver_career",
-    "content": "Driver Career Profile: Max Chilton\nNationality: British\nDate of Birth: 1991-04-21\nActive Seasons (in dataset): 2013, 2014\nTeams: Marussia\nTotal Races (in dataset): 35\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Max Chilton — All-Time Career Statistics\nCareer total wins for Max Chilton: 0\nCareer total podiums for Max Chilton: 0\nCareer total points for Max Chilton: 0.0\nCareer total races for Max Chilton: 35\nNationality: British\nDate of Birth: 1991-04-21\nActive Seasons (in dataset): 2013, 2014\nTeams: Marussia",
     "metadata": {
       "driverId": 165,
       "driver_name": "Max Chilton"
@@ -20067,7 +20067,7 @@
   {
     "chunk_id": "driver_career_174",
     "category": "driver_career",
-    "content": "Driver Career Profile: Franco Colapinto\nNationality: Argentine\nDate of Birth: 2003-05-27\nActive Seasons (in dataset): 2024, 2025, 2026\nTeams: Williams, Alpine F1 Team\nTotal Races (in dataset): 30\nWins: 0\nPodiums: 0\nTotal Points: 6.0",
+    "content": "Driver Career Profile: Franco Colapinto — All-Time Career Statistics\nCareer total wins for Franco Colapinto: 0\nCareer total podiums for Franco Colapinto: 0\nCareer total points for Franco Colapinto: 6.0\nCareer total races for Franco Colapinto: 30\nNationality: Argentine\nDate of Birth: 2003-05-27\nActive Seasons (in dataset): 2024, 2025, 2026\nTeams: Williams, Alpine F1 Team",
     "metadata": {
       "driverId": 174,
       "driver_name": "Franco Colapinto"
@@ -20076,7 +20076,7 @@
   {
     "chunk_id": "driver_career_183",
     "category": "driver_career",
-    "content": "Driver Career Profile: David Coulthard\nNationality: British\nDate of Birth: 1971-03-27\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008\nTeams: Williams, McLaren, Red Bull\nTotal Races (in dataset): 239\nWins: 13\nPodiums: 61\nTotal Points: 521.0",
+    "content": "Driver Career Profile: David Coulthard — All-Time Career Statistics\nCareer total wins for David Coulthard: 13\nCareer total podiums for David Coulthard: 61\nCareer total points for David Coulthard: 521.0\nCareer total races for David Coulthard: 239\nNationality: British\nDate of Birth: 1971-03-27\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008\nTeams: Williams, McLaren, Red Bull",
     "metadata": {
       "driverId": 183,
       "driver_name": "David Coulthard"
@@ -20085,7 +20085,7 @@
   {
     "chunk_id": "driver_career_201",
     "category": "driver_career",
-    "content": "Driver Career Profile: Anthony Davidson\nNationality: British\nDate of Birth: 1979-04-18\nActive Seasons (in dataset): 2002, 2005, 2007, 2008\nTeams: Minardi, BAR, Super Aguri\nTotal Races (in dataset): 24\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Anthony Davidson — All-Time Career Statistics\nCareer total wins for Anthony Davidson: 0\nCareer total podiums for Anthony Davidson: 0\nCareer total points for Anthony Davidson: 0.0\nCareer total races for Anthony Davidson: 24\nNationality: British\nDate of Birth: 1979-04-18\nActive Seasons (in dataset): 2002, 2005, 2007, 2008\nTeams: Minardi, BAR, Super Aguri",
     "metadata": {
       "driverId": 201,
       "driver_name": "Anthony Davidson"
@@ -20094,7 +20094,7 @@
   {
     "chunk_id": "driver_career_206",
     "category": "driver_career",
-    "content": "Driver Career Profile: Pedro Diniz\nNationality: Brazilian\nDate of Birth: 1970-05-22\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000\nTeams: Forti, Ligier, Arrows, Sauber\nTotal Races (in dataset): 99\nWins: 0\nPodiums: 0\nTotal Points: 10.0",
+    "content": "Driver Career Profile: Pedro Diniz — All-Time Career Statistics\nCareer total wins for Pedro Diniz: 0\nCareer total podiums for Pedro Diniz: 0\nCareer total points for Pedro Diniz: 10.0\nCareer total races for Pedro Diniz: 99\nNationality: Brazilian\nDate of Birth: 1970-05-22\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000\nTeams: Forti, Ligier, Arrows, Sauber",
     "metadata": {
       "driverId": 206,
       "driver_name": "Pedro Diniz"
@@ -20103,7 +20103,7 @@
   {
     "chunk_id": "driver_career_212",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jack Doohan\nNationality: Australian\nDate of Birth: 2003-01-20\nActive Seasons (in dataset): 2024, 2025\nTeams: Alpine F1 Team\nTotal Races (in dataset): 7\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Jack Doohan — All-Time Career Statistics\nCareer total wins for Jack Doohan: 0\nCareer total podiums for Jack Doohan: 0\nCareer total points for Jack Doohan: 0.0\nCareer total races for Jack Doohan: 7\nNationality: Australian\nDate of Birth: 2003-01-20\nActive Seasons (in dataset): 2024, 2025\nTeams: Alpine F1 Team",
     "metadata": {
       "driverId": 212,
       "driver_name": "Jack Doohan"
@@ -20112,7 +20112,7 @@
   {
     "chunk_id": "driver_career_213",
     "category": "driver_career",
-    "content": "Driver Career Profile: Robert Doornbos\nNationality: Dutch\nDate of Birth: 1981-09-23\nActive Seasons (in dataset): 2005, 2006\nTeams: Minardi, Red Bull\nTotal Races (in dataset): 11\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Robert Doornbos — All-Time Career Statistics\nCareer total wins for Robert Doornbos: 0\nCareer total podiums for Robert Doornbos: 0\nCareer total points for Robert Doornbos: 0.0\nCareer total races for Robert Doornbos: 11\nNationality: Dutch\nDate of Birth: 1981-09-23\nActive Seasons (in dataset): 2005, 2006\nTeams: Minardi, Red Bull",
     "metadata": {
       "driverId": 213,
       "driver_name": "Robert Doornbos"
@@ -20121,7 +20121,7 @@
   {
     "chunk_id": "driver_career_224",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jean-Denis Délétraz\nNationality: Swiss\nDate of Birth: 1963-10-01\nActive Seasons (in dataset): 1995\nTeams: Pacific\nTotal Races (in dataset): 2\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Jean-Denis Délétraz — All-Time Career Statistics\nCareer total wins for Jean-Denis Délétraz: 0\nCareer total podiums for Jean-Denis Délétraz: 0\nCareer total points for Jean-Denis Délétraz: 0.0\nCareer total races for Jean-Denis Délétraz: 2\nNationality: Swiss\nDate of Birth: 1963-10-01\nActive Seasons (in dataset): 1995\nTeams: Pacific",
     "metadata": {
       "driverId": 224,
       "driver_name": "Jean-Denis Délétraz"
@@ -20130,7 +20130,7 @@
   {
     "chunk_id": "driver_career_232",
     "category": "driver_career",
-    "content": "Driver Career Profile: Tomáš Enge\nNationality: Czech\nDate of Birth: 1976-09-11\nActive Seasons (in dataset): 2001\nTeams: Prost\nTotal Races (in dataset): 3\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Tomáš Enge — All-Time Career Statistics\nCareer total wins for Tomáš Enge: 0\nCareer total podiums for Tomáš Enge: 0\nCareer total points for Tomáš Enge: 0.0\nCareer total races for Tomáš Enge: 3\nNationality: Czech\nDate of Birth: 1976-09-11\nActive Seasons (in dataset): 2001\nTeams: Prost",
     "metadata": {
       "driverId": 232,
       "driver_name": "Tomáš Enge"
@@ -20139,7 +20139,7 @@
   {
     "chunk_id": "driver_career_234",
     "category": "driver_career",
-    "content": "Driver Career Profile: Marcus Ericsson\nNationality: Swedish\nDate of Birth: 1990-09-02\nActive Seasons (in dataset): 2014, 2015, 2016, 2017, 2018\nTeams: Caterham, Sauber\nTotal Races (in dataset): 97\nWins: 0\nPodiums: 0\nTotal Points: 18.0",
+    "content": "Driver Career Profile: Marcus Ericsson — All-Time Career Statistics\nCareer total wins for Marcus Ericsson: 0\nCareer total podiums for Marcus Ericsson: 0\nCareer total points for Marcus Ericsson: 18.0\nCareer total races for Marcus Ericsson: 97\nNationality: Swedish\nDate of Birth: 1990-09-02\nActive Seasons (in dataset): 2014, 2015, 2016, 2017, 2018\nTeams: Caterham, Sauber",
     "metadata": {
       "driverId": 234,
       "driver_name": "Marcus Ericsson"
@@ -20148,7 +20148,7 @@
   {
     "chunk_id": "driver_career_247",
     "category": "driver_career",
-    "content": "Driver Career Profile: Ralph Firman\nNationality: Irish\nDate of Birth: 1975-05-20\nActive Seasons (in dataset): 2003\nTeams: Jordan\nTotal Races (in dataset): 14\nWins: 0\nPodiums: 0\nTotal Points: 1.0",
+    "content": "Driver Career Profile: Ralph Firman — All-Time Career Statistics\nCareer total wins for Ralph Firman: 0\nCareer total podiums for Ralph Firman: 0\nCareer total points for Ralph Firman: 1.0\nCareer total races for Ralph Firman: 14\nNationality: Irish\nDate of Birth: 1975-05-20\nActive Seasons (in dataset): 2003\nTeams: Jordan",
     "metadata": {
       "driverId": 247,
       "driver_name": "Ralph Firman"
@@ -20157,7 +20157,7 @@
   {
     "chunk_id": "driver_career_250",
     "category": "driver_career",
-    "content": "Driver Career Profile: Giancarlo Fisichella\nNationality: Italian\nDate of Birth: 1973-01-14\nActive Seasons (in dataset): 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009\nTeams: Minardi, Jordan, Benetton, Sauber, Renault, Force India, Ferrari\nTotal Races (in dataset): 231\nWins: 3\nPodiums: 19\nTotal Points: 275.0",
+    "content": "Driver Career Profile: Giancarlo Fisichella — All-Time Career Statistics\nCareer total wins for Giancarlo Fisichella: 3\nCareer total podiums for Giancarlo Fisichella: 19\nCareer total points for Giancarlo Fisichella: 275.0\nCareer total races for Giancarlo Fisichella: 231\nNationality: Italian\nDate of Birth: 1973-01-14\nActive Seasons (in dataset): 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009\nTeams: Minardi, Jordan, Benetton, Sauber, Renault, Force India, Ferrari",
     "metadata": {
       "driverId": 250,
       "driver_name": "Giancarlo Fisichella"
@@ -20166,7 +20166,7 @@
   {
     "chunk_id": "driver_career_255",
     "category": "driver_career",
-    "content": "Driver Career Profile: Pietro Fittipaldi\nNationality: Brazilian\nDate of Birth: 1996-06-25\nActive Seasons (in dataset): 2020\nTeams: Haas F1 Team\nTotal Races (in dataset): 2\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Pietro Fittipaldi — All-Time Career Statistics\nCareer total wins for Pietro Fittipaldi: 0\nCareer total podiums for Pietro Fittipaldi: 0\nCareer total points for Pietro Fittipaldi: 0.0\nCareer total races for Pietro Fittipaldi: 2\nNationality: Brazilian\nDate of Birth: 1996-06-25\nActive Seasons (in dataset): 2020\nTeams: Haas F1 Team",
     "metadata": {
       "driverId": 255,
       "driver_name": "Pietro Fittipaldi"
@@ -20175,7 +20175,7 @@
   {
     "chunk_id": "driver_career_264",
     "category": "driver_career",
-    "content": "Driver Career Profile: Norberto Fontana\nNationality: Argentine\nDate of Birth: 1975-01-20\nActive Seasons (in dataset): 1997\nTeams: Sauber\nTotal Races (in dataset): 4\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Norberto Fontana — All-Time Career Statistics\nCareer total wins for Norberto Fontana: 0\nCareer total podiums for Norberto Fontana: 0\nCareer total points for Norberto Fontana: 0.0\nCareer total races for Norberto Fontana: 4\nNationality: Argentine\nDate of Birth: 1975-01-20\nActive Seasons (in dataset): 1997\nTeams: Sauber",
     "metadata": {
       "driverId": 264,
       "driver_name": "Norberto Fontana"
@@ -20184,7 +20184,7 @@
   {
     "chunk_id": "driver_career_274",
     "category": "driver_career",
-    "content": "Driver Career Profile: Heinz-Harald Frentzen\nNationality: German\nDate of Birth: 1967-05-18\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003\nTeams: Sauber, Williams, Jordan, Prost, Arrows\nTotal Races (in dataset): 142\nWins: 3\nPodiums: 18\nTotal Points: 167.0",
+    "content": "Driver Career Profile: Heinz-Harald Frentzen — All-Time Career Statistics\nCareer total wins for Heinz-Harald Frentzen: 3\nCareer total podiums for Heinz-Harald Frentzen: 18\nCareer total points for Heinz-Harald Frentzen: 167.0\nCareer total races for Heinz-Harald Frentzen: 142\nNationality: German\nDate of Birth: 1967-05-18\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003\nTeams: Sauber, Williams, Jordan, Prost, Arrows",
     "metadata": {
       "driverId": 274,
       "driver_name": "Heinz-Harald Frentzen"
@@ -20193,7 +20193,7 @@
   {
     "chunk_id": "driver_career_275",
     "category": "driver_career",
-    "content": "Driver Career Profile: Patrick Friesacher\nNationality: Austrian\nDate of Birth: 1980-09-26\nActive Seasons (in dataset): 2005\nTeams: Minardi\nTotal Races (in dataset): 11\nWins: 0\nPodiums: 0\nTotal Points: 3.0",
+    "content": "Driver Career Profile: Patrick Friesacher — All-Time Career Statistics\nCareer total wins for Patrick Friesacher: 0\nCareer total podiums for Patrick Friesacher: 0\nCareer total points for Patrick Friesacher: 3.0\nCareer total races for Patrick Friesacher: 11\nNationality: Austrian\nDate of Birth: 1980-09-26\nActive Seasons (in dataset): 2005\nTeams: Minardi",
     "metadata": {
       "driverId": 275,
       "driver_name": "Patrick Friesacher"
@@ -20202,7 +20202,7 @@
   {
     "chunk_id": "driver_career_281",
     "category": "driver_career",
-    "content": "Driver Career Profile: Bertrand Gachot\nNationality: Belgian\nDate of Birth: 1962-12-23\nActive Seasons (in dataset): 1995\nTeams: Pacific\nTotal Races (in dataset): 11\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Bertrand Gachot — All-Time Career Statistics\nCareer total wins for Bertrand Gachot: 0\nCareer total podiums for Bertrand Gachot: 0\nCareer total points for Bertrand Gachot: 0.0\nCareer total races for Bertrand Gachot: 11\nNationality: Belgian\nDate of Birth: 1962-12-23\nActive Seasons (in dataset): 1995\nTeams: Pacific",
     "metadata": {
       "driverId": 281,
       "driver_name": "Bertrand Gachot"
@@ -20211,7 +20211,7 @@
   {
     "chunk_id": "driver_career_290",
     "category": "driver_career",
-    "content": "Driver Career Profile: Pierre Gasly\nNationality: French\nDate of Birth: 1996-02-07\nActive Seasons (in dataset): 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Toro Rosso, Red Bull, AlphaTauri, Alpine F1 Team\nTotal Races (in dataset): 181\nWins: 1\nPodiums: 5\nTotal Points: 461.0",
+    "content": "Driver Career Profile: Pierre Gasly — All-Time Career Statistics\nCareer total wins for Pierre Gasly: 1\nCareer total podiums for Pierre Gasly: 5\nCareer total points for Pierre Gasly: 461.0\nCareer total races for Pierre Gasly: 181\nNationality: French\nDate of Birth: 1996-02-07\nActive Seasons (in dataset): 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Toro Rosso, Red Bull, AlphaTauri, Alpine F1 Team",
     "metadata": {
       "driverId": 290,
       "driver_name": "Pierre Gasly"
@@ -20220,7 +20220,7 @@
   {
     "chunk_id": "driver_career_293",
     "category": "driver_career",
-    "content": "Driver Career Profile: Marc Gené\nNationality: Spanish\nDate of Birth: 1974-03-29\nActive Seasons (in dataset): 1999, 2000, 2003, 2004\nTeams: Minardi, Williams\nTotal Races (in dataset): 36\nWins: 0\nPodiums: 0\nTotal Points: 5.0",
+    "content": "Driver Career Profile: Marc Gené — All-Time Career Statistics\nCareer total wins for Marc Gené: 0\nCareer total podiums for Marc Gené: 0\nCareer total points for Marc Gené: 5.0\nCareer total races for Marc Gené: 36\nNationality: Spanish\nDate of Birth: 1974-03-29\nActive Seasons (in dataset): 1999, 2000, 2003, 2004\nTeams: Minardi, Williams",
     "metadata": {
       "driverId": 293,
       "driver_name": "Marc Gené"
@@ -20229,7 +20229,7 @@
   {
     "chunk_id": "driver_career_302",
     "category": "driver_career",
-    "content": "Driver Career Profile: Antonio Giovinazzi\nNationality: Italian\nDate of Birth: 1993-12-14\nActive Seasons (in dataset): 2017, 2019, 2020, 2021\nTeams: Sauber, Alfa Romeo\nTotal Races (in dataset): 62\nWins: 0\nPodiums: 0\nTotal Points: 21.0",
+    "content": "Driver Career Profile: Antonio Giovinazzi — All-Time Career Statistics\nCareer total wins for Antonio Giovinazzi: 0\nCareer total podiums for Antonio Giovinazzi: 0\nCareer total points for Antonio Giovinazzi: 21.0\nCareer total races for Antonio Giovinazzi: 62\nNationality: Italian\nDate of Birth: 1993-12-14\nActive Seasons (in dataset): 2017, 2019, 2020, 2021\nTeams: Sauber, Alfa Romeo",
     "metadata": {
       "driverId": 302,
       "driver_name": "Antonio Giovinazzi"
@@ -20238,7 +20238,7 @@
   {
     "chunk_id": "driver_career_304",
     "category": "driver_career",
-    "content": "Driver Career Profile: Timo Glock\nNationality: German\nDate of Birth: 1982-03-18\nActive Seasons (in dataset): 2004, 2008, 2009, 2010, 2011, 2012\nTeams: Jordan, Toyota, Virgin, Marussia\nTotal Races (in dataset): 95\nWins: 0\nPodiums: 3\nTotal Points: 51.0",
+    "content": "Driver Career Profile: Timo Glock — All-Time Career Statistics\nCareer total wins for Timo Glock: 0\nCareer total podiums for Timo Glock: 3\nCareer total points for Timo Glock: 51.0\nCareer total races for Timo Glock: 95\nNationality: German\nDate of Birth: 1982-03-18\nActive Seasons (in dataset): 2004, 2008, 2009, 2010, 2011, 2012\nTeams: Jordan, Toyota, Virgin, Marussia",
     "metadata": {
       "driverId": 304,
       "driver_name": "Timo Glock"
@@ -20247,7 +20247,7 @@
   {
     "chunk_id": "driver_career_319",
     "category": "driver_career",
-    "content": "Driver Career Profile: Romain Grosjean\nNationality: French\nDate of Birth: 1986-04-17\nActive Seasons (in dataset): 2009, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020\nTeams: Renault, Lotus F1, Haas F1 Team\nTotal Races (in dataset): 181\nWins: 0\nPodiums: 10\nTotal Points: 391.0",
+    "content": "Driver Career Profile: Romain Grosjean — All-Time Career Statistics\nCareer total wins for Romain Grosjean: 0\nCareer total podiums for Romain Grosjean: 10\nCareer total points for Romain Grosjean: 391.0\nCareer total races for Romain Grosjean: 181\nNationality: French\nDate of Birth: 1986-04-17\nActive Seasons (in dataset): 2009, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020\nTeams: Renault, Lotus F1, Haas F1 Team",
     "metadata": {
       "driverId": 319,
       "driver_name": "Romain Grosjean"
@@ -20256,7 +20256,7 @@
   {
     "chunk_id": "driver_career_327",
     "category": "driver_career",
-    "content": "Driver Career Profile: Esteban Gutiérrez\nNationality: Mexican\nDate of Birth: 1991-08-05\nActive Seasons (in dataset): 2013, 2014, 2016\nTeams: Sauber, Haas F1 Team\nTotal Races (in dataset): 59\nWins: 0\nPodiums: 0\nTotal Points: 6.0",
+    "content": "Driver Career Profile: Esteban Gutiérrez — All-Time Career Statistics\nCareer total wins for Esteban Gutiérrez: 0\nCareer total podiums for Esteban Gutiérrez: 0\nCareer total points for Esteban Gutiérrez: 6.0\nCareer total races for Esteban Gutiérrez: 59\nNationality: Mexican\nDate of Birth: 1991-08-05\nActive Seasons (in dataset): 2013, 2014, 2016\nTeams: Sauber, Haas F1 Team",
     "metadata": {
       "driverId": 327,
       "driver_name": "Esteban Gutiérrez"
@@ -20265,7 +20265,7 @@
   {
     "chunk_id": "driver_career_329",
     "category": "driver_career",
-    "content": "Driver Career Profile: Isack Hadjar\nNationality: French\nDate of Birth: 2004-09-28\nActive Seasons (in dataset): 2025, 2026\nTeams: RB F1 Team, Red Bull\nTotal Races (in dataset): 27\nWins: 0\nPodiums: 1\nTotal Points: 54.0",
+    "content": "Driver Career Profile: Isack Hadjar — All-Time Career Statistics\nCareer total wins for Isack Hadjar: 0\nCareer total podiums for Isack Hadjar: 1\nCareer total points for Isack Hadjar: 54.0\nCareer total races for Isack Hadjar: 27\nNationality: French\nDate of Birth: 2004-09-28\nActive Seasons (in dataset): 2025, 2026\nTeams: RB F1 Team, Red Bull",
     "metadata": {
       "driverId": 329,
       "driver_name": "Isack Hadjar"
@@ -20274,7 +20274,7 @@
   {
     "chunk_id": "driver_career_335",
     "category": "driver_career",
-    "content": "Driver Career Profile: Lewis Hamilton\nNationality: British\nDate of Birth: 1985-01-07\nActive Seasons (in dataset): 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: McLaren, Mercedes, Ferrari\nTotal Races (in dataset): 383\nWins: 105\nPodiums: 203\nTotal Points: 4990.5\nWorld Championships: 2008, 2014, 2015, 2017, 2018, 2019, 2020",
+    "content": "Driver Career Profile: Lewis Hamilton — All-Time Career Statistics\nCareer total wins for Lewis Hamilton: 105\nCareer total podiums for Lewis Hamilton: 203\nCareer total points for Lewis Hamilton: 4990.5\nCareer total races for Lewis Hamilton: 383\nNationality: British\nDate of Birth: 1985-01-07\nActive Seasons (in dataset): 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: McLaren, Mercedes, Ferrari\nWorld Championship titles: 2008, 2014, 2015, 2017, 2018, 2019, 2020",
     "metadata": {
       "driverId": 335,
       "driver_name": "Lewis Hamilton"
@@ -20283,7 +20283,7 @@
   {
     "chunk_id": "driver_career_343",
     "category": "driver_career",
-    "content": "Driver Career Profile: Brendon Hartley\nNationality: New Zealander\nDate of Birth: 1989-11-10\nActive Seasons (in dataset): 2017, 2018\nTeams: Toro Rosso\nTotal Races (in dataset): 25\nWins: 0\nPodiums: 0\nTotal Points: 4.0",
+    "content": "Driver Career Profile: Brendon Hartley — All-Time Career Statistics\nCareer total wins for Brendon Hartley: 0\nCareer total podiums for Brendon Hartley: 0\nCareer total points for Brendon Hartley: 4.0\nCareer total races for Brendon Hartley: 25\nNationality: New Zealander\nDate of Birth: 1989-11-10\nActive Seasons (in dataset): 2017, 2018\nTeams: Toro Rosso",
     "metadata": {
       "driverId": 343,
       "driver_name": "Brendon Hartley"
@@ -20292,7 +20292,7 @@
   {
     "chunk_id": "driver_career_344",
     "category": "driver_career",
-    "content": "Driver Career Profile: Rio Haryanto\nNationality: Indonesian\nDate of Birth: 1993-01-22\nActive Seasons (in dataset): 2016\nTeams: Manor Marussia\nTotal Races (in dataset): 12\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Rio Haryanto — All-Time Career Statistics\nCareer total wins for Rio Haryanto: 0\nCareer total podiums for Rio Haryanto: 0\nCareer total points for Rio Haryanto: 0.0\nCareer total races for Rio Haryanto: 12\nNationality: Indonesian\nDate of Birth: 1993-01-22\nActive Seasons (in dataset): 2016\nTeams: Manor Marussia",
     "metadata": {
       "driverId": 344,
       "driver_name": "Rio Haryanto"
@@ -20301,7 +20301,7 @@
   {
     "chunk_id": "driver_career_350",
     "category": "driver_career",
-    "content": "Driver Career Profile: Nick Heidfeld\nNationality: German\nDate of Birth: 1977-05-10\nActive Seasons (in dataset): 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011\nTeams: Prost, Sauber, Jordan, Williams, BMW Sauber, Renault\nTotal Races (in dataset): 184\nWins: 0\nPodiums: 13\nTotal Points: 259.0",
+    "content": "Driver Career Profile: Nick Heidfeld — All-Time Career Statistics\nCareer total wins for Nick Heidfeld: 0\nCareer total podiums for Nick Heidfeld: 13\nCareer total points for Nick Heidfeld: 259.0\nCareer total races for Nick Heidfeld: 184\nNationality: German\nDate of Birth: 1977-05-10\nActive Seasons (in dataset): 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011\nTeams: Prost, Sauber, Jordan, Williams, BMW Sauber, Renault",
     "metadata": {
       "driverId": 350,
       "driver_name": "Nick Heidfeld"
@@ -20310,7 +20310,7 @@
   {
     "chunk_id": "driver_career_354",
     "category": "driver_career",
-    "content": "Driver Career Profile: Johnny Herbert\nNationality: British\nDate of Birth: 1964-06-25\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000\nTeams: Benetton, Sauber, Stewart, Jaguar\nTotal Races (in dataset): 99\nWins: 3\nPodiums: 7\nTotal Points: 80.0",
+    "content": "Driver Career Profile: Johnny Herbert — All-Time Career Statistics\nCareer total wins for Johnny Herbert: 3\nCareer total podiums for Johnny Herbert: 7\nCareer total points for Johnny Herbert: 80.0\nCareer total races for Johnny Herbert: 99\nNationality: British\nDate of Birth: 1964-06-25\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000\nTeams: Benetton, Sauber, Stewart, Jaguar",
     "metadata": {
       "driverId": 354,
       "driver_name": "Johnny Herbert"
@@ -20319,7 +20319,7 @@
   {
     "chunk_id": "driver_career_361",
     "category": "driver_career",
-    "content": "Driver Career Profile: Damon Hill\nNationality: British\nDate of Birth: 1960-09-17\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999\nTeams: Williams, Arrows, Jordan\nTotal Races (in dataset): 82\nWins: 13\nPodiums: 21\nTotal Points: 200.0\nWorld Championships: 1996",
+    "content": "Driver Career Profile: Damon Hill — All-Time Career Statistics\nCareer total wins for Damon Hill: 13\nCareer total podiums for Damon Hill: 21\nCareer total points for Damon Hill: 200.0\nCareer total races for Damon Hill: 82\nNationality: British\nDate of Birth: 1960-09-17\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999\nTeams: Williams, Arrows, Jordan\nWorld Championship titles: 1996",
     "metadata": {
       "driverId": 361,
       "driver_name": "Damon Hill"
@@ -20328,7 +20328,7 @@
   {
     "chunk_id": "driver_career_376",
     "category": "driver_career",
-    "content": "Driver Career Profile: Mika Häkkinen\nNationality: Finnish\nDate of Birth: 1968-09-28\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2001\nTeams: McLaren\nTotal Races (in dataset): 115\nWins: 20\nPodiums: 44\nTotal Points: 377.0\nWorld Championships: 1998, 1999",
+    "content": "Driver Career Profile: Mika Häkkinen — All-Time Career Statistics\nCareer total wins for Mika Häkkinen: 20\nCareer total podiums for Mika Häkkinen: 44\nCareer total points for Mika Häkkinen: 377.0\nCareer total races for Mika Häkkinen: 115\nNationality: Finnish\nDate of Birth: 1968-09-28\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2001\nTeams: McLaren\nWorld Championship titles: 1998, 1999",
     "metadata": {
       "driverId": 376,
       "driver_name": "Mika Häkkinen"
@@ -20337,7 +20337,7 @@
   {
     "chunk_id": "driver_career_377",
     "category": "driver_career",
-    "content": "Driver Career Profile: Nico Hülkenberg\nNationality: German\nDate of Birth: 1987-08-19\nActive Seasons (in dataset): 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023, 2024, 2025, 2026\nTeams: Williams, Force India, Sauber, Renault, Racing Point, Aston Martin, Haas F1 Team, Audi\nTotal Races (in dataset): 257\nWins: 0\nPodiums: 1\nTotal Points: 614.0",
+    "content": "Driver Career Profile: Nico Hülkenberg — All-Time Career Statistics\nCareer total wins for Nico Hülkenberg: 0\nCareer total podiums for Nico Hülkenberg: 1\nCareer total points for Nico Hülkenberg: 614.0\nCareer total races for Nico Hülkenberg: 257\nNationality: German\nDate of Birth: 1987-08-19\nActive Seasons (in dataset): 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023, 2024, 2025, 2026\nTeams: Williams, Force India, Sauber, Renault, Racing Point, Aston Martin, Haas F1 Team, Audi",
     "metadata": {
       "driverId": 377,
       "driver_name": "Nico Hülkenberg"
@@ -20346,7 +20346,7 @@
   {
     "chunk_id": "driver_career_379",
     "category": "driver_career",
-    "content": "Driver Career Profile: Yuji Ide\nNationality: Japanese\nDate of Birth: 1975-01-21\nActive Seasons (in dataset): 2006\nTeams: Super Aguri\nTotal Races (in dataset): 4\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Yuji Ide — All-Time Career Statistics\nCareer total wins for Yuji Ide: 0\nCareer total podiums for Yuji Ide: 0\nCareer total points for Yuji Ide: 0.0\nCareer total races for Yuji Ide: 4\nNationality: Japanese\nDate of Birth: 1975-01-21\nActive Seasons (in dataset): 2006\nTeams: Super Aguri",
     "metadata": {
       "driverId": 379,
       "driver_name": "Yuji Ide"
@@ -20355,7 +20355,7 @@
   {
     "chunk_id": "driver_career_381",
     "category": "driver_career",
-    "content": "Driver Career Profile: Taki Inoue\nNationality: Japanese\nDate of Birth: 1963-09-05\nActive Seasons (in dataset): 1995\nTeams: Footwork\nTotal Races (in dataset): 17\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Taki Inoue — All-Time Career Statistics\nCareer total wins for Taki Inoue: 0\nCareer total podiums for Taki Inoue: 0\nCareer total points for Taki Inoue: 0.0\nCareer total races for Taki Inoue: 17\nNationality: Japanese\nDate of Birth: 1963-09-05\nActive Seasons (in dataset): 1995\nTeams: Footwork",
     "metadata": {
       "driverId": 381,
       "driver_name": "Taki Inoue"
@@ -20364,7 +20364,7 @@
   {
     "chunk_id": "driver_career_383",
     "category": "driver_career",
-    "content": "Driver Career Profile: Eddie Irvine\nNationality: British\nDate of Birth: 1965-11-10\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002\nTeams: Jordan, Ferrari, Jaguar\nTotal Races (in dataset): 132\nWins: 4\nPodiums: 26\nTotal Points: 184.0",
+    "content": "Driver Career Profile: Eddie Irvine — All-Time Career Statistics\nCareer total wins for Eddie Irvine: 4\nCareer total podiums for Eddie Irvine: 26\nCareer total points for Eddie Irvine: 184.0\nCareer total races for Eddie Irvine: 132\nNationality: British\nDate of Birth: 1965-11-10\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002\nTeams: Jordan, Ferrari, Jaguar",
     "metadata": {
       "driverId": 383,
       "driver_name": "Eddie Irvine"
@@ -20373,7 +20373,7 @@
   {
     "chunk_id": "driver_career_401",
     "category": "driver_career",
-    "content": "Driver Career Profile: Narain Karthikeyan\nNationality: Indian\nDate of Birth: 1977-01-14\nActive Seasons (in dataset): 2005, 2011, 2012\nTeams: Jordan, HRT\nTotal Races (in dataset): 46\nWins: 0\nPodiums: 0\nTotal Points: 5.0",
+    "content": "Driver Career Profile: Narain Karthikeyan — All-Time Career Statistics\nCareer total wins for Narain Karthikeyan: 0\nCareer total podiums for Narain Karthikeyan: 0\nCareer total points for Narain Karthikeyan: 5.0\nCareer total races for Narain Karthikeyan: 46\nNationality: Indian\nDate of Birth: 1977-01-14\nActive Seasons (in dataset): 2005, 2011, 2012\nTeams: Jordan, HRT",
     "metadata": {
       "driverId": 401,
       "driver_name": "Narain Karthikeyan"
@@ -20382,7 +20382,7 @@
   {
     "chunk_id": "driver_career_402",
     "category": "driver_career",
-    "content": "Driver Career Profile: Ukyo Katayama\nNationality: Japanese\nDate of Birth: 1963-05-29\nActive Seasons (in dataset): 1995, 1996, 1997\nTeams: Tyrrell, Minardi\nTotal Races (in dataset): 49\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Ukyo Katayama — All-Time Career Statistics\nCareer total wins for Ukyo Katayama: 0\nCareer total podiums for Ukyo Katayama: 0\nCareer total points for Ukyo Katayama: 0.0\nCareer total races for Ukyo Katayama: 49\nNationality: Japanese\nDate of Birth: 1963-05-29\nActive Seasons (in dataset): 1995, 1996, 1997\nTeams: Tyrrell, Minardi",
     "metadata": {
       "driverId": 402,
       "driver_name": "Ukyo Katayama"
@@ -20391,7 +20391,7 @@
   {
     "chunk_id": "driver_career_411",
     "category": "driver_career",
-    "content": "Driver Career Profile: Nicolas Kiesa\nNationality: Danish\nDate of Birth: 1978-03-03\nActive Seasons (in dataset): 2003\nTeams: Minardi\nTotal Races (in dataset): 5\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Nicolas Kiesa — All-Time Career Statistics\nCareer total wins for Nicolas Kiesa: 0\nCareer total podiums for Nicolas Kiesa: 0\nCareer total points for Nicolas Kiesa: 0.0\nCareer total races for Nicolas Kiesa: 5\nNationality: Danish\nDate of Birth: 1978-03-03\nActive Seasons (in dataset): 2003\nTeams: Minardi",
     "metadata": {
       "driverId": 411,
       "driver_name": "Nicolas Kiesa"
@@ -20400,7 +20400,7 @@
   {
     "chunk_id": "driver_career_415",
     "category": "driver_career",
-    "content": "Driver Career Profile: Christian Klien\nNationality: Austrian\nDate of Birth: 1983-02-07\nActive Seasons (in dataset): 2004, 2005, 2006, 2010\nTeams: Jaguar, Red Bull, HRT\nTotal Races (in dataset): 51\nWins: 0\nPodiums: 0\nTotal Points: 14.0",
+    "content": "Driver Career Profile: Christian Klien — All-Time Career Statistics\nCareer total wins for Christian Klien: 0\nCareer total podiums for Christian Klien: 0\nCareer total points for Christian Klien: 14.0\nCareer total races for Christian Klien: 51\nNationality: Austrian\nDate of Birth: 1983-02-07\nActive Seasons (in dataset): 2004, 2005, 2006, 2010\nTeams: Jaguar, Red Bull, HRT",
     "metadata": {
       "driverId": 415,
       "driver_name": "Christian Klien"
@@ -20409,7 +20409,7 @@
   {
     "chunk_id": "driver_career_418",
     "category": "driver_career",
-    "content": "Driver Career Profile: Kamui Kobayashi\nNationality: Japanese\nDate of Birth: 1986-09-13\nActive Seasons (in dataset): 2009, 2010, 2011, 2012, 2014\nTeams: Toyota, Sauber, Caterham\nTotal Races (in dataset): 76\nWins: 0\nPodiums: 1\nTotal Points: 125.0",
+    "content": "Driver Career Profile: Kamui Kobayashi — All-Time Career Statistics\nCareer total wins for Kamui Kobayashi: 0\nCareer total podiums for Kamui Kobayashi: 1\nCareer total points for Kamui Kobayashi: 125.0\nCareer total races for Kamui Kobayashi: 76\nNationality: Japanese\nDate of Birth: 1986-09-13\nActive Seasons (in dataset): 2009, 2010, 2011, 2012, 2014\nTeams: Toyota, Sauber, Caterham",
     "metadata": {
       "driverId": 418,
       "driver_name": "Kamui Kobayashi"
@@ -20418,7 +20418,7 @@
   {
     "chunk_id": "driver_career_420",
     "category": "driver_career",
-    "content": "Driver Career Profile: Heikki Kovalainen\nNationality: Finnish\nDate of Birth: 1981-10-19\nActive Seasons (in dataset): 2007, 2008, 2009, 2010, 2011, 2012, 2013\nTeams: Renault, McLaren, Lotus, Caterham, Lotus F1\nTotal Races (in dataset): 112\nWins: 1\nPodiums: 4\nTotal Points: 105.0",
+    "content": "Driver Career Profile: Heikki Kovalainen — All-Time Career Statistics\nCareer total wins for Heikki Kovalainen: 1\nCareer total podiums for Heikki Kovalainen: 4\nCareer total points for Heikki Kovalainen: 105.0\nCareer total races for Heikki Kovalainen: 112\nNationality: Finnish\nDate of Birth: 1981-10-19\nActive Seasons (in dataset): 2007, 2008, 2009, 2010, 2011, 2012, 2013\nTeams: Renault, McLaren, Lotus, Caterham, Lotus F1",
     "metadata": {
       "driverId": 420,
       "driver_name": "Heikki Kovalainen"
@@ -20427,7 +20427,7 @@
   {
     "chunk_id": "driver_career_423",
     "category": "driver_career",
-    "content": "Driver Career Profile: Robert Kubica\nNationality: Polish\nDate of Birth: 1984-12-07\nActive Seasons (in dataset): 2006, 2007, 2008, 2009, 2010, 2019, 2021\nTeams: BMW Sauber, Renault, Williams, Alfa Romeo\nTotal Races (in dataset): 99\nWins: 1\nPodiums: 12\nTotal Points: 274.0",
+    "content": "Driver Career Profile: Robert Kubica — All-Time Career Statistics\nCareer total wins for Robert Kubica: 1\nCareer total podiums for Robert Kubica: 12\nCareer total points for Robert Kubica: 274.0\nCareer total races for Robert Kubica: 99\nNationality: Polish\nDate of Birth: 1984-12-07\nActive Seasons (in dataset): 2006, 2007, 2008, 2009, 2010, 2019, 2021\nTeams: BMW Sauber, Renault, Williams, Alfa Romeo",
     "metadata": {
       "driverId": 423,
       "driver_name": "Robert Kubica"
@@ -20436,7 +20436,7 @@
   {
     "chunk_id": "driver_career_425",
     "category": "driver_career",
-    "content": "Driver Career Profile: Daniil Kvyat\nNationality: Russian\nDate of Birth: 1994-04-26\nActive Seasons (in dataset): 2014, 2015, 2016, 2017, 2019, 2020\nTeams: Toro Rosso, Red Bull, AlphaTauri\nTotal Races (in dataset): 112\nWins: 0\nPodiums: 3\nTotal Points: 202.0",
+    "content": "Driver Career Profile: Daniil Kvyat — All-Time Career Statistics\nCareer total wins for Daniil Kvyat: 0\nCareer total podiums for Daniil Kvyat: 3\nCareer total points for Daniil Kvyat: 202.0\nCareer total races for Daniil Kvyat: 112\nNationality: Russian\nDate of Birth: 1994-04-26\nActive Seasons (in dataset): 2014, 2015, 2016, 2017, 2019, 2020\nTeams: Toro Rosso, Red Bull, AlphaTauri",
     "metadata": {
       "driverId": 425,
       "driver_name": "Daniil Kvyat"
@@ -20445,7 +20445,7 @@
   {
     "chunk_id": "driver_career_430",
     "category": "driver_career",
-    "content": "Driver Career Profile: Pedro Lamy\nNationality: Portuguese\nDate of Birth: 1972-03-20\nActive Seasons (in dataset): 1995, 1996\nTeams: Minardi\nTotal Races (in dataset): 24\nWins: 0\nPodiums: 0\nTotal Points: 1.0",
+    "content": "Driver Career Profile: Pedro Lamy — All-Time Career Statistics\nCareer total wins for Pedro Lamy: 0\nCareer total podiums for Pedro Lamy: 0\nCareer total points for Pedro Lamy: 1.0\nCareer total races for Pedro Lamy: 24\nNationality: Portuguese\nDate of Birth: 1972-03-20\nActive Seasons (in dataset): 1995, 1996\nTeams: Minardi",
     "metadata": {
       "driverId": 430,
       "driver_name": "Pedro Lamy"
@@ -20454,7 +20454,7 @@
   {
     "chunk_id": "driver_career_434",
     "category": "driver_career",
-    "content": "Driver Career Profile: Nicola Larini\nNationality: Italian\nDate of Birth: 1964-03-19\nActive Seasons (in dataset): 1997\nTeams: Sauber\nTotal Races (in dataset): 5\nWins: 0\nPodiums: 0\nTotal Points: 1.0",
+    "content": "Driver Career Profile: Nicola Larini — All-Time Career Statistics\nCareer total wins for Nicola Larini: 0\nCareer total podiums for Nicola Larini: 0\nCareer total points for Nicola Larini: 1.0\nCareer total races for Nicola Larini: 5\nNationality: Italian\nDate of Birth: 1964-03-19\nActive Seasons (in dataset): 1997\nTeams: Sauber",
     "metadata": {
       "driverId": 434,
       "driver_name": "Nicola Larini"
@@ -20463,7 +20463,7 @@
   {
     "chunk_id": "driver_career_439",
     "category": "driver_career",
-    "content": "Driver Career Profile: Nicholas Latifi\nNationality: Canadian\nDate of Birth: 1995-06-29\nActive Seasons (in dataset): 2020, 2021, 2022\nTeams: Williams\nTotal Races (in dataset): 61\nWins: 0\nPodiums: 0\nTotal Points: 9.0",
+    "content": "Driver Career Profile: Nicholas Latifi — All-Time Career Statistics\nCareer total wins for Nicholas Latifi: 0\nCareer total podiums for Nicholas Latifi: 0\nCareer total points for Nicholas Latifi: 9.0\nCareer total races for Nicholas Latifi: 61\nNationality: Canadian\nDate of Birth: 1995-06-29\nActive Seasons (in dataset): 2020, 2021, 2022\nTeams: Williams",
     "metadata": {
       "driverId": 439,
       "driver_name": "Nicholas Latifi"
@@ -20472,7 +20472,7 @@
   {
     "chunk_id": "driver_career_442",
     "category": "driver_career",
-    "content": "Driver Career Profile: Giovanni Lavaggi\nNationality: Italian\nDate of Birth: 1958-02-18\nActive Seasons (in dataset): 1995, 1996\nTeams: Pacific, Minardi\nTotal Races (in dataset): 7\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Giovanni Lavaggi — All-Time Career Statistics\nCareer total wins for Giovanni Lavaggi: 0\nCareer total podiums for Giovanni Lavaggi: 0\nCareer total points for Giovanni Lavaggi: 0.0\nCareer total races for Giovanni Lavaggi: 7\nNationality: Italian\nDate of Birth: 1958-02-18\nActive Seasons (in dataset): 1995, 1996\nTeams: Pacific, Minardi",
     "metadata": {
       "driverId": 442,
       "driver_name": "Giovanni Lavaggi"
@@ -20481,7 +20481,7 @@
   {
     "chunk_id": "driver_career_444",
     "category": "driver_career",
-    "content": "Driver Career Profile: Liam Lawson\nNationality: New Zealander\nDate of Birth: 2002-02-11\nActive Seasons (in dataset): 2023, 2024, 2025, 2026\nTeams: AlphaTauri, RB F1 Team, Red Bull\nTotal Races (in dataset): 38\nWins: 0\nPodiums: 0\nTotal Points: 52.0",
+    "content": "Driver Career Profile: Liam Lawson — All-Time Career Statistics\nCareer total wins for Liam Lawson: 0\nCareer total podiums for Liam Lawson: 0\nCareer total points for Liam Lawson: 52.0\nCareer total races for Liam Lawson: 38\nNationality: New Zealander\nDate of Birth: 2002-02-11\nActive Seasons (in dataset): 2023, 2024, 2025, 2026\nTeams: AlphaTauri, RB F1 Team, Red Bull",
     "metadata": {
       "driverId": 444,
       "driver_name": "Liam Lawson"
@@ -20490,7 +20490,7 @@
   {
     "chunk_id": "driver_career_445",
     "category": "driver_career",
-    "content": "Driver Career Profile: Charles Leclerc\nNationality: Monegasque\nDate of Birth: 1997-10-16\nActive Seasons (in dataset): 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Sauber, Ferrari\nTotal Races (in dataset): 176\nWins: 8\nPodiums: 52\nTotal Points: 1630.0",
+    "content": "Driver Career Profile: Charles Leclerc — All-Time Career Statistics\nCareer total wins for Charles Leclerc: 8\nCareer total podiums for Charles Leclerc: 52\nCareer total points for Charles Leclerc: 1630.0\nCareer total races for Charles Leclerc: 176\nNationality: Monegasque\nDate of Birth: 1997-10-16\nActive Seasons (in dataset): 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Sauber, Ferrari",
     "metadata": {
       "driverId": 445,
       "driver_name": "Charles Leclerc"
@@ -20499,7 +20499,7 @@
   {
     "chunk_id": "driver_career_458",
     "category": "driver_career",
-    "content": "Driver Career Profile: Arvid Lindblad\nNationality: British\nDate of Birth: 2007-08-08\nActive Seasons (in dataset): 2026\nTeams: RB F1 Team\nTotal Races (in dataset): 3\nWins: 0\nPodiums: 0\nTotal Points: 4.0",
+    "content": "Driver Career Profile: Arvid Lindblad — All-Time Career Statistics\nCareer total wins for Arvid Lindblad: 0\nCareer total podiums for Arvid Lindblad: 0\nCareer total points for Arvid Lindblad: 4.0\nCareer total races for Arvid Lindblad: 3\nNationality: British\nDate of Birth: 2007-08-08\nActive Seasons (in dataset): 2026\nTeams: RB F1 Team",
     "metadata": {
       "driverId": 458,
       "driver_name": "Arvid Lindblad"
@@ -20508,7 +20508,7 @@
   {
     "chunk_id": "driver_career_461",
     "category": "driver_career",
-    "content": "Driver Career Profile: Vitantonio Liuzzi\nNationality: Italian\nDate of Birth: 1980-08-06\nActive Seasons (in dataset): 2005, 2006, 2007, 2009, 2010, 2011\nTeams: Red Bull, Toro Rosso, Force India, HRT\nTotal Races (in dataset): 80\nWins: 0\nPodiums: 0\nTotal Points: 26.0",
+    "content": "Driver Career Profile: Vitantonio Liuzzi — All-Time Career Statistics\nCareer total wins for Vitantonio Liuzzi: 0\nCareer total podiums for Vitantonio Liuzzi: 0\nCareer total points for Vitantonio Liuzzi: 26.0\nCareer total races for Vitantonio Liuzzi: 80\nNationality: Italian\nDate of Birth: 1980-08-06\nActive Seasons (in dataset): 2005, 2006, 2007, 2009, 2010, 2011\nTeams: Red Bull, Toro Rosso, Force India, HRT",
     "metadata": {
       "driverId": 461,
       "driver_name": "Vitantonio Liuzzi"
@@ -20517,7 +20517,7 @@
   {
     "chunk_id": "driver_career_465",
     "category": "driver_career",
-    "content": "Driver Career Profile: André Lotterer\nNationality: German\nDate of Birth: 1981-11-19\nActive Seasons (in dataset): 2014\nTeams: Caterham\nTotal Races (in dataset): 1\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: André Lotterer — All-Time Career Statistics\nCareer total wins for André Lotterer: 0\nCareer total podiums for André Lotterer: 0\nCareer total points for André Lotterer: 0.0\nCareer total races for André Lotterer: 1\nNationality: German\nDate of Birth: 1981-11-19\nActive Seasons (in dataset): 2014\nTeams: Caterham",
     "metadata": {
       "driverId": 465,
       "driver_name": "André Lotterer"
@@ -20526,7 +20526,7 @@
   {
     "chunk_id": "driver_career_482",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jan Magnussen\nNationality: Danish\nDate of Birth: 1973-07-04\nActive Seasons (in dataset): 1995, 1997, 1998\nTeams: McLaren, Stewart\nTotal Races (in dataset): 25\nWins: 0\nPodiums: 0\nTotal Points: 1.0",
+    "content": "Driver Career Profile: Jan Magnussen — All-Time Career Statistics\nCareer total wins for Jan Magnussen: 0\nCareer total podiums for Jan Magnussen: 0\nCareer total points for Jan Magnussen: 1.0\nCareer total races for Jan Magnussen: 25\nNationality: Danish\nDate of Birth: 1973-07-04\nActive Seasons (in dataset): 1995, 1997, 1998\nTeams: McLaren, Stewart",
     "metadata": {
       "driverId": 482,
       "driver_name": "Jan Magnussen"
@@ -20535,7 +20535,7 @@
   {
     "chunk_id": "driver_career_483",
     "category": "driver_career",
-    "content": "Driver Career Profile: Kevin Magnussen\nNationality: Danish\nDate of Birth: 1992-10-05\nActive Seasons (in dataset): 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023, 2024\nTeams: McLaren, Renault, Haas F1 Team\nTotal Races (in dataset): 186\nWins: 0\nPodiums: 1\nTotal Points: 196.0",
+    "content": "Driver Career Profile: Kevin Magnussen — All-Time Career Statistics\nCareer total wins for Kevin Magnussen: 0\nCareer total podiums for Kevin Magnussen: 1\nCareer total points for Kevin Magnussen: 196.0\nCareer total races for Kevin Magnussen: 186\nNationality: Danish\nDate of Birth: 1992-10-05\nActive Seasons (in dataset): 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023, 2024\nTeams: McLaren, Renault, Haas F1 Team",
     "metadata": {
       "driverId": 483,
       "driver_name": "Kevin Magnussen"
@@ -20544,7 +20544,7 @@
   {
     "chunk_id": "driver_career_486",
     "category": "driver_career",
-    "content": "Driver Career Profile: Pastor Maldonado\nNationality: Venezuelan\nDate of Birth: 1985-03-09\nActive Seasons (in dataset): 2011, 2012, 2013, 2014, 2015\nTeams: Williams, Lotus F1\nTotal Races (in dataset): 96\nWins: 1\nPodiums: 1\nTotal Points: 76.0",
+    "content": "Driver Career Profile: Pastor Maldonado — All-Time Career Statistics\nCareer total wins for Pastor Maldonado: 1\nCareer total podiums for Pastor Maldonado: 1\nCareer total points for Pastor Maldonado: 76.0\nCareer total races for Pastor Maldonado: 96\nNationality: Venezuelan\nDate of Birth: 1985-03-09\nActive Seasons (in dataset): 2011, 2012, 2013, 2014, 2015\nTeams: Williams, Lotus F1",
     "metadata": {
       "driverId": 486,
       "driver_name": "Pastor Maldonado"
@@ -20553,7 +20553,7 @@
   {
     "chunk_id": "driver_career_487",
     "category": "driver_career",
-    "content": "Driver Career Profile: Nigel Mansell\nNationality: British\nDate of Birth: 1953-08-08\nActive Seasons (in dataset): 1995\nTeams: McLaren\nTotal Races (in dataset): 2\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Nigel Mansell — All-Time Career Statistics\nCareer total wins for Nigel Mansell: 0\nCareer total podiums for Nigel Mansell: 0\nCareer total points for Nigel Mansell: 0.0\nCareer total races for Nigel Mansell: 2\nNationality: British\nDate of Birth: 1953-08-08\nActive Seasons (in dataset): 1995\nTeams: McLaren",
     "metadata": {
       "driverId": 487,
       "driver_name": "Nigel Mansell"
@@ -20562,7 +20562,7 @@
   {
     "chunk_id": "driver_career_493",
     "category": "driver_career",
-    "content": "Driver Career Profile: Tarso Marques\nNationality: Brazilian\nDate of Birth: 1976-01-19\nActive Seasons (in dataset): 1996, 1997, 2001\nTeams: Minardi\nTotal Races (in dataset): 25\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Tarso Marques — All-Time Career Statistics\nCareer total wins for Tarso Marques: 0\nCareer total podiums for Tarso Marques: 0\nCareer total points for Tarso Marques: 0.0\nCareer total races for Tarso Marques: 25\nNationality: Brazilian\nDate of Birth: 1976-01-19\nActive Seasons (in dataset): 1996, 1997, 2001\nTeams: Minardi",
     "metadata": {
       "driverId": 493,
       "driver_name": "Tarso Marques"
@@ -20571,7 +20571,7 @@
   {
     "chunk_id": "driver_career_497",
     "category": "driver_career",
-    "content": "Driver Career Profile: Pierluigi Martini\nNationality: Italian\nDate of Birth: 1961-04-23\nActive Seasons (in dataset): 1995\nTeams: Minardi\nTotal Races (in dataset): 9\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Pierluigi Martini — All-Time Career Statistics\nCareer total wins for Pierluigi Martini: 0\nCareer total podiums for Pierluigi Martini: 0\nCareer total points for Pierluigi Martini: 0.0\nCareer total races for Pierluigi Martini: 9\nNationality: Italian\nDate of Birth: 1961-04-23\nActive Seasons (in dataset): 1995\nTeams: Minardi",
     "metadata": {
       "driverId": 497,
       "driver_name": "Pierluigi Martini"
@@ -20580,7 +20580,7 @@
   {
     "chunk_id": "driver_career_500",
     "category": "driver_career",
-    "content": "Driver Career Profile: Felipe Massa\nNationality: Brazilian\nDate of Birth: 1981-04-25\nActive Seasons (in dataset): 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017\nTeams: Sauber, Ferrari, Williams\nTotal Races (in dataset): 271\nWins: 11\nPodiums: 41\nTotal Points: 1167.0",
+    "content": "Driver Career Profile: Felipe Massa — All-Time Career Statistics\nCareer total wins for Felipe Massa: 11\nCareer total podiums for Felipe Massa: 41\nCareer total points for Felipe Massa: 1167.0\nCareer total races for Felipe Massa: 271\nNationality: Brazilian\nDate of Birth: 1981-04-25\nActive Seasons (in dataset): 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017\nTeams: Sauber, Ferrari, Williams",
     "metadata": {
       "driverId": 500,
       "driver_name": "Felipe Massa"
@@ -20589,7 +20589,7 @@
   {
     "chunk_id": "driver_career_503",
     "category": "driver_career",
-    "content": "Driver Career Profile: Nikita Mazepin\nNationality: Russian\nDate of Birth: 1999-03-02\nActive Seasons (in dataset): 2021\nTeams: Haas F1 Team\nTotal Races (in dataset): 22\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Nikita Mazepin — All-Time Career Statistics\nCareer total wins for Nikita Mazepin: 0\nCareer total podiums for Nikita Mazepin: 0\nCareer total points for Nikita Mazepin: 0.0\nCareer total races for Nikita Mazepin: 22\nNationality: Russian\nDate of Birth: 1999-03-02\nActive Seasons (in dataset): 2021\nTeams: Haas F1 Team",
     "metadata": {
       "driverId": 503,
       "driver_name": "Nikita Mazepin"
@@ -20598,7 +20598,7 @@
   {
     "chunk_id": "driver_career_505",
     "category": "driver_career",
-    "content": "Driver Career Profile: Gastón Mazzacane\nNationality: Argentine\nDate of Birth: 1975-05-08\nActive Seasons (in dataset): 2000, 2001\nTeams: Minardi, Prost\nTotal Races (in dataset): 21\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Gastón Mazzacane — All-Time Career Statistics\nCareer total wins for Gastón Mazzacane: 0\nCareer total podiums for Gastón Mazzacane: 0\nCareer total points for Gastón Mazzacane: 0.0\nCareer total races for Gastón Mazzacane: 21\nNationality: Argentine\nDate of Birth: 1975-05-08\nActive Seasons (in dataset): 2000, 2001\nTeams: Minardi, Prost",
     "metadata": {
       "driverId": 505,
       "driver_name": "Gastón Mazzacane"
@@ -20607,7 +20607,7 @@
   {
     "chunk_id": "driver_career_513",
     "category": "driver_career",
-    "content": "Driver Career Profile: Allan McNish\nNationality: British\nDate of Birth: 1969-12-29\nActive Seasons (in dataset): 2002\nTeams: Toyota\nTotal Races (in dataset): 17\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Allan McNish — All-Time Career Statistics\nCareer total wins for Allan McNish: 0\nCareer total podiums for Allan McNish: 0\nCareer total points for Allan McNish: 0.0\nCareer total races for Allan McNish: 17\nNationality: British\nDate of Birth: 1969-12-29\nActive Seasons (in dataset): 2002\nTeams: Toyota",
     "metadata": {
       "driverId": 513,
       "driver_name": "Allan McNish"
@@ -20616,7 +20616,7 @@
   {
     "chunk_id": "driver_career_517",
     "category": "driver_career",
-    "content": "Driver Career Profile: Roberto Merhi\nNationality: Spanish\nDate of Birth: 1991-03-22\nActive Seasons (in dataset): 2015\nTeams: Manor Marussia\nTotal Races (in dataset): 13\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Roberto Merhi — All-Time Career Statistics\nCareer total wins for Roberto Merhi: 0\nCareer total podiums for Roberto Merhi: 0\nCareer total points for Roberto Merhi: 0.0\nCareer total races for Roberto Merhi: 13\nNationality: Spanish\nDate of Birth: 1991-03-22\nActive Seasons (in dataset): 2015\nTeams: Manor Marussia",
     "metadata": {
       "driverId": 517,
       "driver_name": "Roberto Merhi"
@@ -20625,7 +20625,7 @@
   {
     "chunk_id": "driver_career_528",
     "category": "driver_career",
-    "content": "Driver Career Profile: Franck Montagny\nNationality: French\nDate of Birth: 1978-01-05\nActive Seasons (in dataset): 2006\nTeams: Super Aguri\nTotal Races (in dataset): 7\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Franck Montagny — All-Time Career Statistics\nCareer total wins for Franck Montagny: 0\nCareer total podiums for Franck Montagny: 0\nCareer total points for Franck Montagny: 0.0\nCareer total races for Franck Montagny: 7\nNationality: French\nDate of Birth: 1978-01-05\nActive Seasons (in dataset): 2006\nTeams: Super Aguri",
     "metadata": {
       "driverId": 528,
       "driver_name": "Franck Montagny"
@@ -20634,7 +20634,7 @@
   {
     "chunk_id": "driver_career_529",
     "category": "driver_career",
-    "content": "Driver Career Profile: Tiago Monteiro\nNationality: Portuguese\nDate of Birth: 1976-07-24\nActive Seasons (in dataset): 2005, 2006\nTeams: Jordan, MF1, Spyker MF1\nTotal Races (in dataset): 37\nWins: 0\nPodiums: 1\nTotal Points: 7.0",
+    "content": "Driver Career Profile: Tiago Monteiro — All-Time Career Statistics\nCareer total wins for Tiago Monteiro: 0\nCareer total podiums for Tiago Monteiro: 1\nCareer total points for Tiago Monteiro: 7.0\nCareer total races for Tiago Monteiro: 37\nNationality: Portuguese\nDate of Birth: 1976-07-24\nActive Seasons (in dataset): 2005, 2006\nTeams: Jordan, MF1, Spyker MF1",
     "metadata": {
       "driverId": 529,
       "driver_name": "Tiago Monteiro"
@@ -20643,7 +20643,7 @@
   {
     "chunk_id": "driver_career_530",
     "category": "driver_career",
-    "content": "Driver Career Profile: Andrea Montermini\nNationality: Italian\nDate of Birth: 1964-05-30\nActive Seasons (in dataset): 1995, 1996\nTeams: Pacific, Forti\nTotal Races (in dataset): 22\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Andrea Montermini — All-Time Career Statistics\nCareer total wins for Andrea Montermini: 0\nCareer total podiums for Andrea Montermini: 0\nCareer total points for Andrea Montermini: 0.0\nCareer total races for Andrea Montermini: 22\nNationality: Italian\nDate of Birth: 1964-05-30\nActive Seasons (in dataset): 1995, 1996\nTeams: Pacific, Forti",
     "metadata": {
       "driverId": 530,
       "driver_name": "Andrea Montermini"
@@ -20652,7 +20652,7 @@
   {
     "chunk_id": "driver_career_533",
     "category": "driver_career",
-    "content": "Driver Career Profile: Gianni Morbidelli\nNationality: Italian\nDate of Birth: 1968-01-13\nActive Seasons (in dataset): 1995, 1997\nTeams: Footwork, Sauber\nTotal Races (in dataset): 18\nWins: 0\nPodiums: 1\nTotal Points: 5.0",
+    "content": "Driver Career Profile: Gianni Morbidelli — All-Time Career Statistics\nCareer total wins for Gianni Morbidelli: 0\nCareer total podiums for Gianni Morbidelli: 1\nCareer total points for Gianni Morbidelli: 5.0\nCareer total races for Gianni Morbidelli: 18\nNationality: Italian\nDate of Birth: 1968-01-13\nActive Seasons (in dataset): 1995, 1997\nTeams: Footwork, Sauber",
     "metadata": {
       "driverId": 533,
       "driver_name": "Gianni Morbidelli"
@@ -20661,7 +20661,7 @@
   {
     "chunk_id": "driver_career_534",
     "category": "driver_career",
-    "content": "Driver Career Profile: Roberto Moreno\nNationality: Brazilian\nDate of Birth: 1959-02-11\nActive Seasons (in dataset): 1995\nTeams: Forti\nTotal Races (in dataset): 17\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Roberto Moreno — All-Time Career Statistics\nCareer total wins for Roberto Moreno: 0\nCareer total podiums for Roberto Moreno: 0\nCareer total points for Roberto Moreno: 0.0\nCareer total races for Roberto Moreno: 17\nNationality: Brazilian\nDate of Birth: 1959-02-11\nActive Seasons (in dataset): 1995\nTeams: Forti",
     "metadata": {
       "driverId": 534,
       "driver_name": "Roberto Moreno"
@@ -20670,7 +20670,7 @@
   {
     "chunk_id": "driver_career_543",
     "category": "driver_career",
-    "content": "Driver Career Profile: Kazuki Nakajima\nNationality: Japanese\nDate of Birth: 1985-01-11\nActive Seasons (in dataset): 2007, 2008, 2009\nTeams: Williams\nTotal Races (in dataset): 36\nWins: 0\nPodiums: 0\nTotal Points: 9.0",
+    "content": "Driver Career Profile: Kazuki Nakajima — All-Time Career Statistics\nCareer total wins for Kazuki Nakajima: 0\nCareer total podiums for Kazuki Nakajima: 0\nCareer total points for Kazuki Nakajima: 9.0\nCareer total races for Kazuki Nakajima: 36\nNationality: Japanese\nDate of Birth: 1985-01-11\nActive Seasons (in dataset): 2007, 2008, 2009\nTeams: Williams",
     "metadata": {
       "driverId": 543,
       "driver_name": "Kazuki Nakajima"
@@ -20679,7 +20679,7 @@
   {
     "chunk_id": "driver_career_544",
     "category": "driver_career",
-    "content": "Driver Career Profile: Shinji Nakano\nNationality: Japanese\nDate of Birth: 1971-04-01\nActive Seasons (in dataset): 1997, 1998\nTeams: Prost, Minardi\nTotal Races (in dataset): 33\nWins: 0\nPodiums: 0\nTotal Points: 2.0",
+    "content": "Driver Career Profile: Shinji Nakano — All-Time Career Statistics\nCareer total wins for Shinji Nakano: 0\nCareer total podiums for Shinji Nakano: 0\nCareer total points for Shinji Nakano: 2.0\nCareer total races for Shinji Nakano: 33\nNationality: Japanese\nDate of Birth: 1971-04-01\nActive Seasons (in dataset): 1997, 1998\nTeams: Prost, Minardi",
     "metadata": {
       "driverId": 544,
       "driver_name": "Shinji Nakano"
@@ -20688,7 +20688,7 @@
   {
     "chunk_id": "driver_career_548",
     "category": "driver_career",
-    "content": "Driver Career Profile: Felipe Nasr\nNationality: Brazilian\nDate of Birth: 1992-08-21\nActive Seasons (in dataset): 2015, 2016\nTeams: Sauber\nTotal Races (in dataset): 40\nWins: 0\nPodiums: 0\nTotal Points: 29.0",
+    "content": "Driver Career Profile: Felipe Nasr — All-Time Career Statistics\nCareer total wins for Felipe Nasr: 0\nCareer total podiums for Felipe Nasr: 0\nCareer total points for Felipe Nasr: 29.0\nCareer total races for Felipe Nasr: 40\nNationality: Brazilian\nDate of Birth: 1992-08-21\nActive Seasons (in dataset): 2015, 2016\nTeams: Sauber",
     "metadata": {
       "driverId": 548,
       "driver_name": "Felipe Nasr"
@@ -20697,7 +20697,7 @@
   {
     "chunk_id": "driver_career_560",
     "category": "driver_career",
-    "content": "Driver Career Profile: Lando Norris\nNationality: British\nDate of Birth: 1999-11-13\nActive Seasons (in dataset): 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: McLaren\nTotal Races (in dataset): 155\nWins: 11\nPodiums: 44\nTotal Points: 1364.0\nWorld Championships: 2025",
+    "content": "Driver Career Profile: Lando Norris — All-Time Career Statistics\nCareer total wins for Lando Norris: 11\nCareer total podiums for Lando Norris: 44\nCareer total points for Lando Norris: 1364.0\nCareer total races for Lando Norris: 155\nNationality: British\nDate of Birth: 1999-11-13\nActive Seasons (in dataset): 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: McLaren\nWorld Championship titles: 2025",
     "metadata": {
       "driverId": 560,
       "driver_name": "Lando Norris"
@@ -20706,7 +20706,7 @@
   {
     "chunk_id": "driver_career_566",
     "category": "driver_career",
-    "content": "Driver Career Profile: Esteban Ocon\nNationality: French\nDate of Birth: 1996-09-17\nActive Seasons (in dataset): 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Manor Marussia, Force India, Renault, Alpine F1 Team, Haas F1 Team\nTotal Races (in dataset): 183\nWins: 1\nPodiums: 4\nTotal Points: 475.0",
+    "content": "Driver Career Profile: Esteban Ocon — All-Time Career Statistics\nCareer total wins for Esteban Ocon: 1\nCareer total podiums for Esteban Ocon: 4\nCareer total points for Esteban Ocon: 475.0\nCareer total races for Esteban Ocon: 183\nNationality: French\nDate of Birth: 1996-09-17\nActive Seasons (in dataset): 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Manor Marussia, Force India, Renault, Alpine F1 Team, Haas F1 Team",
     "metadata": {
       "driverId": 566,
       "driver_name": "Esteban Ocon"
@@ -20715,7 +20715,7 @@
   {
     "chunk_id": "driver_career_570",
     "category": "driver_career",
-    "content": "Driver Career Profile: Juan Pablo Montoya\nNationality: Colombian\nDate of Birth: 1975-09-20\nActive Seasons (in dataset): 2001, 2002, 2003, 2004, 2005, 2006\nTeams: Williams, McLaren\nTotal Races (in dataset): 95\nWins: 7\nPodiums: 30\nTotal Points: 307.0",
+    "content": "Driver Career Profile: Juan Pablo Montoya — All-Time Career Statistics\nCareer total wins for Juan Pablo Montoya: 7\nCareer total podiums for Juan Pablo Montoya: 30\nCareer total points for Juan Pablo Montoya: 307.0\nCareer total races for Juan Pablo Montoya: 95\nNationality: Colombian\nDate of Birth: 1975-09-20\nActive Seasons (in dataset): 2001, 2002, 2003, 2004, 2005, 2006\nTeams: Williams, McLaren",
     "metadata": {
       "driverId": 570,
       "driver_name": "Juan Pablo Montoya"
@@ -20724,7 +20724,7 @@
   {
     "chunk_id": "driver_career_576",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jolyon Palmer\nNationality: British\nDate of Birth: 1991-01-20\nActive Seasons (in dataset): 2016, 2017\nTeams: Renault\nTotal Races (in dataset): 37\nWins: 0\nPodiums: 0\nTotal Points: 9.0",
+    "content": "Driver Career Profile: Jolyon Palmer — All-Time Career Statistics\nCareer total wins for Jolyon Palmer: 0\nCareer total podiums for Jolyon Palmer: 0\nCareer total points for Jolyon Palmer: 9.0\nCareer total races for Jolyon Palmer: 37\nNationality: British\nDate of Birth: 1991-01-20\nActive Seasons (in dataset): 2016, 2017\nTeams: Renault",
     "metadata": {
       "driverId": 576,
       "driver_name": "Jolyon Palmer"
@@ -20733,7 +20733,7 @@
   {
     "chunk_id": "driver_career_577",
     "category": "driver_career",
-    "content": "Driver Career Profile: Olivier Panis\nNationality: French\nDate of Birth: 1966-09-02\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004\nTeams: Ligier, Prost, BAR, Toyota\nTotal Races (in dataset): 142\nWins: 1\nPodiums: 4\nTotal Points: 67.0",
+    "content": "Driver Career Profile: Olivier Panis — All-Time Career Statistics\nCareer total wins for Olivier Panis: 1\nCareer total podiums for Olivier Panis: 4\nCareer total points for Olivier Panis: 67.0\nCareer total races for Olivier Panis: 142\nNationality: French\nDate of Birth: 1966-09-02\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004\nTeams: Ligier, Prost, BAR, Toyota",
     "metadata": {
       "driverId": 577,
       "driver_name": "Olivier Panis"
@@ -20742,7 +20742,7 @@
   {
     "chunk_id": "driver_career_578",
     "category": "driver_career",
-    "content": "Driver Career Profile: Giorgio Pantano\nNationality: Italian\nDate of Birth: 1979-02-04\nActive Seasons (in dataset): 2004\nTeams: Jordan\nTotal Races (in dataset): 14\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Giorgio Pantano — All-Time Career Statistics\nCareer total wins for Giorgio Pantano: 0\nCareer total podiums for Giorgio Pantano: 0\nCareer total points for Giorgio Pantano: 0.0\nCareer total races for Giorgio Pantano: 14\nNationality: Italian\nDate of Birth: 1979-02-04\nActive Seasons (in dataset): 2004\nTeams: Jordan",
     "metadata": {
       "driverId": 578,
       "driver_name": "Giorgio Pantano"
@@ -20751,7 +20751,7 @@
   {
     "chunk_id": "driver_career_579",
     "category": "driver_career",
-    "content": "Driver Career Profile: Massimiliano Papis\nNationality: Italian\nDate of Birth: 1969-10-03\nActive Seasons (in dataset): 1995\nTeams: Footwork\nTotal Races (in dataset): 7\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Massimiliano Papis — All-Time Career Statistics\nCareer total wins for Massimiliano Papis: 0\nCareer total podiums for Massimiliano Papis: 0\nCareer total points for Massimiliano Papis: 0.0\nCareer total races for Massimiliano Papis: 7\nNationality: Italian\nDate of Birth: 1969-10-03\nActive Seasons (in dataset): 1995\nTeams: Footwork",
     "metadata": {
       "driverId": 579,
       "driver_name": "Massimiliano Papis"
@@ -20760,7 +20760,7 @@
   {
     "chunk_id": "driver_career_593",
     "category": "driver_career",
-    "content": "Driver Career Profile: Vitaly Petrov\nNationality: Russian\nDate of Birth: 1984-09-08\nActive Seasons (in dataset): 2010, 2011, 2012\nTeams: Renault, Caterham\nTotal Races (in dataset): 58\nWins: 0\nPodiums: 1\nTotal Points: 64.0",
+    "content": "Driver Career Profile: Vitaly Petrov — All-Time Career Statistics\nCareer total wins for Vitaly Petrov: 0\nCareer total podiums for Vitaly Petrov: 1\nCareer total points for Vitaly Petrov: 64.0\nCareer total races for Vitaly Petrov: 58\nNationality: Russian\nDate of Birth: 1984-09-08\nActive Seasons (in dataset): 2010, 2011, 2012\nTeams: Renault, Caterham",
     "metadata": {
       "driverId": 593,
       "driver_name": "Vitaly Petrov"
@@ -20769,7 +20769,7 @@
   {
     "chunk_id": "driver_career_594",
     "category": "driver_career",
-    "content": "Driver Career Profile: Oscar Piastri\nNationality: Australian\nDate of Birth: 2001-04-06\nActive Seasons (in dataset): 2023, 2024, 2025, 2026\nTeams: McLaren\nTotal Races (in dataset): 73\nWins: 9\nPodiums: 27\nTotal Points: 746.0",
+    "content": "Driver Career Profile: Oscar Piastri — All-Time Career Statistics\nCareer total wins for Oscar Piastri: 9\nCareer total podiums for Oscar Piastri: 27\nCareer total points for Oscar Piastri: 746.0\nCareer total races for Oscar Piastri: 73\nNationality: Australian\nDate of Birth: 2001-04-06\nActive Seasons (in dataset): 2023, 2024, 2025, 2026\nTeams: McLaren",
     "metadata": {
       "driverId": 594,
       "driver_name": "Oscar Piastri"
@@ -20778,7 +20778,7 @@
   {
     "chunk_id": "driver_career_595",
     "category": "driver_career",
-    "content": "Driver Career Profile: Charles Pic\nNationality: French\nDate of Birth: 1990-02-15\nActive Seasons (in dataset): 2012, 2013\nTeams: Marussia, Caterham\nTotal Races (in dataset): 39\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Charles Pic — All-Time Career Statistics\nCareer total wins for Charles Pic: 0\nCareer total podiums for Charles Pic: 0\nCareer total points for Charles Pic: 0.0\nCareer total races for Charles Pic: 39\nNationality: French\nDate of Birth: 1990-02-15\nActive Seasons (in dataset): 2012, 2013\nTeams: Marussia, Caterham",
     "metadata": {
       "driverId": 595,
       "driver_name": "Charles Pic"
@@ -20787,7 +20787,7 @@
   {
     "chunk_id": "driver_career_604",
     "category": "driver_career",
-    "content": "Driver Career Profile: Nelson Piquet Jr.\nNationality: Brazilian\nDate of Birth: 1985-07-25\nActive Seasons (in dataset): 2008, 2009\nTeams: Renault\nTotal Races (in dataset): 28\nWins: 0\nPodiums: 1\nTotal Points: 19.0",
+    "content": "Driver Career Profile: Nelson Piquet Jr. — All-Time Career Statistics\nCareer total wins for Nelson Piquet Jr.: 0\nCareer total podiums for Nelson Piquet Jr.: 1\nCareer total points for Nelson Piquet Jr.: 19.0\nCareer total races for Nelson Piquet Jr.: 28\nNationality: Brazilian\nDate of Birth: 1985-07-25\nActive Seasons (in dataset): 2008, 2009\nTeams: Renault",
     "metadata": {
       "driverId": 604,
       "driver_name": "Nelson Piquet Jr."
@@ -20796,7 +20796,7 @@
   {
     "chunk_id": "driver_career_608",
     "category": "driver_career",
-    "content": "Driver Career Profile: Antônio Pizzonia\nNationality: Brazilian\nDate of Birth: 1980-09-11\nActive Seasons (in dataset): 2003, 2004, 2005\nTeams: Jaguar, Williams\nTotal Races (in dataset): 20\nWins: 0\nPodiums: 0\nTotal Points: 8.0",
+    "content": "Driver Career Profile: Antônio Pizzonia — All-Time Career Statistics\nCareer total wins for Antônio Pizzonia: 0\nCareer total podiums for Antônio Pizzonia: 0\nCareer total points for Antônio Pizzonia: 8.0\nCareer total races for Antônio Pizzonia: 20\nNationality: Brazilian\nDate of Birth: 1980-09-11\nActive Seasons (in dataset): 2003, 2004, 2005\nTeams: Jaguar, Williams",
     "metadata": {
       "driverId": 608,
       "driver_name": "Antônio Pizzonia"
@@ -20805,7 +20805,7 @@
   {
     "chunk_id": "driver_career_622",
     "category": "driver_career",
-    "content": "Driver Career Profile: Sergio Pérez\nNationality: Mexican\nDate of Birth: 1990-01-26\nActive Seasons (in dataset): 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2026\nTeams: Sauber, McLaren, Force India, Racing Point, Red Bull, Cadillac F1 Team\nTotal Races (in dataset): 286\nWins: 6\nPodiums: 39\nTotal Points: 1585.0",
+    "content": "Driver Career Profile: Sergio Pérez — All-Time Career Statistics\nCareer total wins for Sergio Pérez: 6\nCareer total podiums for Sergio Pérez: 39\nCareer total points for Sergio Pérez: 1585.0\nCareer total races for Sergio Pérez: 286\nNationality: Mexican\nDate of Birth: 1990-01-26\nActive Seasons (in dataset): 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2026\nTeams: Sauber, McLaren, Force India, Racing Point, Red Bull, Cadillac F1 Team",
     "metadata": {
       "driverId": 622,
       "driver_name": "Sergio Pérez"
@@ -20814,7 +20814,7 @@
   {
     "chunk_id": "driver_career_642",
     "category": "driver_career",
-    "content": "Driver Career Profile: Daniel Ricciardo\nNationality: Australian\nDate of Birth: 1989-07-01\nActive Seasons (in dataset): 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024\nTeams: HRT, Toro Rosso, Red Bull, Renault, McLaren, AlphaTauri, RB F1 Team\nTotal Races (in dataset): 257\nWins: 8\nPodiums: 32\nTotal Points: 1320.0",
+    "content": "Driver Career Profile: Daniel Ricciardo — All-Time Career Statistics\nCareer total wins for Daniel Ricciardo: 8\nCareer total podiums for Daniel Ricciardo: 32\nCareer total points for Daniel Ricciardo: 1320.0\nCareer total races for Daniel Ricciardo: 257\nNationality: Australian\nDate of Birth: 1989-07-01\nActive Seasons (in dataset): 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024\nTeams: HRT, Toro Rosso, Red Bull, Renault, McLaren, AlphaTauri, RB F1 Team",
     "metadata": {
       "driverId": 642,
       "driver_name": "Daniel Ricciardo"
@@ -20823,7 +20823,7 @@
   {
     "chunk_id": "driver_career_656",
     "category": "driver_career",
-    "content": "Driver Career Profile: Nico Rosberg\nNationality: German\nDate of Birth: 1985-06-27\nActive Seasons (in dataset): 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016\nTeams: Williams, Mercedes\nTotal Races (in dataset): 206\nWins: 23\nPodiums: 57\nTotal Points: 1594.5\nWorld Championships: 2016",
+    "content": "Driver Career Profile: Nico Rosberg — All-Time Career Statistics\nCareer total wins for Nico Rosberg: 23\nCareer total podiums for Nico Rosberg: 57\nCareer total points for Nico Rosberg: 1594.5\nCareer total races for Nico Rosberg: 206\nNationality: German\nDate of Birth: 1985-06-27\nActive Seasons (in dataset): 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016\nTeams: Williams, Mercedes\nWorld Championship titles: 2016",
     "metadata": {
       "driverId": 656,
       "driver_name": "Nico Rosberg"
@@ -20832,7 +20832,7 @@
   {
     "chunk_id": "driver_career_659",
     "category": "driver_career",
-    "content": "Driver Career Profile: Ricardo Rosset\nNationality: Brazilian\nDate of Birth: 1968-07-27\nActive Seasons (in dataset): 1996, 1998\nTeams: Footwork, Tyrrell\nTotal Races (in dataset): 27\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Ricardo Rosset — All-Time Career Statistics\nCareer total wins for Ricardo Rosset: 0\nCareer total podiums for Ricardo Rosset: 0\nCareer total points for Ricardo Rosset: 0.0\nCareer total races for Ricardo Rosset: 27\nNationality: Brazilian\nDate of Birth: 1968-07-27\nActive Seasons (in dataset): 1996, 1998\nTeams: Footwork, Tyrrell",
     "metadata": {
       "driverId": 659,
       "driver_name": "Ricardo Rosset"
@@ -20841,7 +20841,7 @@
   {
     "chunk_id": "driver_career_660",
     "category": "driver_career",
-    "content": "Driver Career Profile: Alexander Rossi\nNationality: American\nDate of Birth: 1991-09-25\nActive Seasons (in dataset): 2015\nTeams: Manor Marussia\nTotal Races (in dataset): 5\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Alexander Rossi — All-Time Career Statistics\nCareer total wins for Alexander Rossi: 0\nCareer total podiums for Alexander Rossi: 0\nCareer total points for Alexander Rossi: 0.0\nCareer total races for Alexander Rossi: 5\nNationality: American\nDate of Birth: 1991-09-25\nActive Seasons (in dataset): 2015\nTeams: Manor Marussia",
     "metadata": {
       "driverId": 660,
       "driver_name": "Alexander Rossi"
@@ -20850,7 +20850,7 @@
   {
     "chunk_id": "driver_career_663",
     "category": "driver_career",
-    "content": "Driver Career Profile: George Russell\nNationality: British\nDate of Birth: 1998-02-15\nActive Seasons (in dataset): 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Williams, Mercedes\nTotal Races (in dataset): 155\nWins: 6\nPodiums: 26\nTotal Points: 1008.0",
+    "content": "Driver Career Profile: George Russell — All-Time Career Statistics\nCareer total wins for George Russell: 6\nCareer total podiums for George Russell: 26\nCareer total points for George Russell: 1008.0\nCareer total races for George Russell: 155\nNationality: British\nDate of Birth: 1998-02-15\nActive Seasons (in dataset): 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Williams, Mercedes",
     "metadata": {
       "driverId": 663,
       "driver_name": "George Russell"
@@ -20859,7 +20859,7 @@
   {
     "chunk_id": "driver_career_669",
     "category": "driver_career",
-    "content": "Driver Career Profile: Kimi Räikkönen\nNationality: Finnish\nDate of Birth: 1979-10-17\nActive Seasons (in dataset): 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021\nTeams: Sauber, McLaren, Ferrari, Lotus F1, Alfa Romeo\nTotal Races (in dataset): 352\nWins: 21\nPodiums: 103\nTotal Points: 1873.0\nWorld Championships: 2007",
+    "content": "Driver Career Profile: Kimi Räikkönen — All-Time Career Statistics\nCareer total wins for Kimi Räikkönen: 21\nCareer total podiums for Kimi Räikkönen: 103\nCareer total points for Kimi Räikkönen: 1873.0\nCareer total races for Kimi Räikkönen: 352\nNationality: Finnish\nDate of Birth: 1979-10-17\nActive Seasons (in dataset): 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021\nTeams: Sauber, McLaren, Ferrari, Lotus F1, Alfa Romeo\nWorld Championship titles: 2007",
     "metadata": {
       "driverId": 669,
       "driver_name": "Kimi Räikkönen"
@@ -20868,7 +20868,7 @@
   {
     "chunk_id": "driver_career_672",
     "category": "driver_career",
-    "content": "Driver Career Profile: Carlos Sainz\nNationality: Spanish\nDate of Birth: 1994-09-01\nActive Seasons (in dataset): 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Toro Rosso, Renault, McLaren, Ferrari, Williams\nTotal Races (in dataset): 235\nWins: 4\nPodiums: 29\nTotal Points: 1259.5",
+    "content": "Driver Career Profile: Carlos Sainz — All-Time Career Statistics\nCareer total wins for Carlos Sainz: 4\nCareer total podiums for Carlos Sainz: 29\nCareer total points for Carlos Sainz: 1259.5\nCareer total races for Carlos Sainz: 235\nNationality: Spanish\nDate of Birth: 1994-09-01\nActive Seasons (in dataset): 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Toro Rosso, Renault, McLaren, Ferrari, Williams",
     "metadata": {
       "driverId": 672,
       "driver_name": "Carlos Sainz"
@@ -20877,7 +20877,7 @@
   {
     "chunk_id": "driver_career_674",
     "category": "driver_career",
-    "content": "Driver Career Profile: Mika Salo\nNationality: Finnish\nDate of Birth: 1966-11-30\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2002\nTeams: Tyrrell, Arrows, BAR, Ferrari, Sauber, Toyota\nTotal Races (in dataset): 109\nWins: 0\nPodiums: 2\nTotal Points: 33.0",
+    "content": "Driver Career Profile: Mika Salo — All-Time Career Statistics\nCareer total wins for Mika Salo: 0\nCareer total podiums for Mika Salo: 2\nCareer total points for Mika Salo: 33.0\nCareer total races for Mika Salo: 109\nNationality: Finnish\nDate of Birth: 1966-11-30\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2002\nTeams: Tyrrell, Arrows, BAR, Ferrari, Sauber, Toyota",
     "metadata": {
       "driverId": 674,
       "driver_name": "Mika Salo"
@@ -20886,7 +20886,7 @@
   {
     "chunk_id": "driver_career_677",
     "category": "driver_career",
-    "content": "Driver Career Profile: Logan Sargeant\nNationality: American\nDate of Birth: 2000-12-31\nActive Seasons (in dataset): 2023, 2024\nTeams: Williams\nTotal Races (in dataset): 36\nWins: 0\nPodiums: 0\nTotal Points: 1.0",
+    "content": "Driver Career Profile: Logan Sargeant — All-Time Career Statistics\nCareer total wins for Logan Sargeant: 0\nCareer total podiums for Logan Sargeant: 0\nCareer total points for Logan Sargeant: 1.0\nCareer total races for Logan Sargeant: 36\nNationality: American\nDate of Birth: 2000-12-31\nActive Seasons (in dataset): 2023, 2024\nTeams: Williams",
     "metadata": {
       "driverId": 677,
       "driver_name": "Logan Sargeant"
@@ -20895,7 +20895,7 @@
   {
     "chunk_id": "driver_career_678",
     "category": "driver_career",
-    "content": "Driver Career Profile: Stéphane Sarrazin\nNationality: French\nDate of Birth: 1975-11-02\nActive Seasons (in dataset): 1999\nTeams: Minardi\nTotal Races (in dataset): 1\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Stéphane Sarrazin — All-Time Career Statistics\nCareer total wins for Stéphane Sarrazin: 0\nCareer total podiums for Stéphane Sarrazin: 0\nCareer total points for Stéphane Sarrazin: 0.0\nCareer total races for Stéphane Sarrazin: 1\nNationality: French\nDate of Birth: 1975-11-02\nActive Seasons (in dataset): 1999\nTeams: Minardi",
     "metadata": {
       "driverId": 678,
       "driver_name": "Stéphane Sarrazin"
@@ -20904,7 +20904,7 @@
   {
     "chunk_id": "driver_career_679",
     "category": "driver_career",
-    "content": "Driver Career Profile: Takuma Sato\nNationality: Japanese\nDate of Birth: 1977-01-28\nActive Seasons (in dataset): 2002, 2003, 2004, 2005, 2006, 2007, 2008\nTeams: Jordan, BAR, Super Aguri\nTotal Races (in dataset): 91\nWins: 0\nPodiums: 1\nTotal Points: 44.0",
+    "content": "Driver Career Profile: Takuma Sato — All-Time Career Statistics\nCareer total wins for Takuma Sato: 0\nCareer total podiums for Takuma Sato: 1\nCareer total points for Takuma Sato: 44.0\nCareer total races for Takuma Sato: 91\nNationality: Japanese\nDate of Birth: 1977-01-28\nActive Seasons (in dataset): 2002, 2003, 2004, 2005, 2006, 2007, 2008\nTeams: Jordan, BAR, Super Aguri",
     "metadata": {
       "driverId": 679,
       "driver_name": "Takuma Sato"
@@ -20913,7 +20913,7 @@
   {
     "chunk_id": "driver_career_688",
     "category": "driver_career",
-    "content": "Driver Career Profile: Domenico Schiattarella\nNationality: Italian\nDate of Birth: 1967-11-17\nActive Seasons (in dataset): 1995\nTeams: Simtek\nTotal Races (in dataset): 5\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Domenico Schiattarella — All-Time Career Statistics\nCareer total wins for Domenico Schiattarella: 0\nCareer total podiums for Domenico Schiattarella: 0\nCareer total points for Domenico Schiattarella: 0.0\nCareer total races for Domenico Schiattarella: 5\nNationality: Italian\nDate of Birth: 1967-11-17\nActive Seasons (in dataset): 1995\nTeams: Simtek",
     "metadata": {
       "driverId": 688,
       "driver_name": "Domenico Schiattarella"
@@ -20922,7 +20922,7 @@
   {
     "chunk_id": "driver_career_696",
     "category": "driver_career",
-    "content": "Driver Career Profile: Michael Schumacher\nNationality: German\nDate of Birth: 1969-01-03\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2010, 2011, 2012\nTeams: Benetton, Ferrari, Mercedes\nTotal Races (in dataset): 256\nWins: 81\nPodiums: 128\nTotal Points: 1365.0\nWorld Championships: 1995, 2000, 2001, 2002, 2003, 2004",
+    "content": "Driver Career Profile: Michael Schumacher — All-Time Career Statistics\nCareer total wins for Michael Schumacher: 81\nCareer total podiums for Michael Schumacher: 128\nCareer total points for Michael Schumacher: 1365.0\nCareer total races for Michael Schumacher: 256\nNationality: German\nDate of Birth: 1969-01-03\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2010, 2011, 2012\nTeams: Benetton, Ferrari, Mercedes\nWorld Championship titles: 1995, 2000, 2001, 2002, 2003, 2004",
     "metadata": {
       "driverId": 696,
       "driver_name": "Michael Schumacher"
@@ -20931,7 +20931,7 @@
   {
     "chunk_id": "driver_career_697",
     "category": "driver_career",
-    "content": "Driver Career Profile: Ralf Schumacher\nNationality: German\nDate of Birth: 1975-06-30\nActive Seasons (in dataset): 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007\nTeams: Jordan, Williams, Toyota\nTotal Races (in dataset): 180\nWins: 6\nPodiums: 27\nTotal Points: 329.0",
+    "content": "Driver Career Profile: Ralf Schumacher — All-Time Career Statistics\nCareer total wins for Ralf Schumacher: 6\nCareer total podiums for Ralf Schumacher: 27\nCareer total points for Ralf Schumacher: 329.0\nCareer total races for Ralf Schumacher: 180\nNationality: German\nDate of Birth: 1975-06-30\nActive Seasons (in dataset): 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007\nTeams: Jordan, Williams, Toyota",
     "metadata": {
       "driverId": 697,
       "driver_name": "Ralf Schumacher"
@@ -20940,7 +20940,7 @@
   {
     "chunk_id": "driver_career_698",
     "category": "driver_career",
-    "content": "Driver Career Profile: Mick Schumacher\nNationality: German\nDate of Birth: 1999-03-22\nActive Seasons (in dataset): 2021, 2022\nTeams: Haas F1 Team\nTotal Races (in dataset): 44\nWins: 0\nPodiums: 0\nTotal Points: 12.0",
+    "content": "Driver Career Profile: Mick Schumacher — All-Time Career Statistics\nCareer total wins for Mick Schumacher: 0\nCareer total podiums for Mick Schumacher: 0\nCareer total points for Mick Schumacher: 12.0\nCareer total races for Mick Schumacher: 44\nNationality: German\nDate of Birth: 1999-03-22\nActive Seasons (in dataset): 2021, 2022\nTeams: Haas F1 Team",
     "metadata": {
       "driverId": 698,
       "driver_name": "Mick Schumacher"
@@ -20949,7 +20949,7 @@
   {
     "chunk_id": "driver_career_706",
     "category": "driver_career",
-    "content": "Driver Career Profile: Bruno Senna\nNationality: Brazilian\nDate of Birth: 1983-10-15\nActive Seasons (in dataset): 2010, 2011, 2012\nTeams: HRT, Renault, Williams\nTotal Races (in dataset): 46\nWins: 0\nPodiums: 0\nTotal Points: 33.0",
+    "content": "Driver Career Profile: Bruno Senna — All-Time Career Statistics\nCareer total wins for Bruno Senna: 0\nCareer total podiums for Bruno Senna: 0\nCareer total points for Bruno Senna: 33.0\nCareer total races for Bruno Senna: 46\nNationality: Brazilian\nDate of Birth: 1983-10-15\nActive Seasons (in dataset): 2010, 2011, 2012\nTeams: HRT, Renault, Williams",
     "metadata": {
       "driverId": 706,
       "driver_name": "Bruno Senna"
@@ -20958,7 +20958,7 @@
   {
     "chunk_id": "driver_career_719",
     "category": "driver_career",
-    "content": "Driver Career Profile: Sergey Sirotkin\nNationality: Russian\nDate of Birth: 1995-08-27\nActive Seasons (in dataset): 2018\nTeams: Williams\nTotal Races (in dataset): 21\nWins: 0\nPodiums: 0\nTotal Points: 1.0",
+    "content": "Driver Career Profile: Sergey Sirotkin — All-Time Career Statistics\nCareer total wins for Sergey Sirotkin: 0\nCareer total podiums for Sergey Sirotkin: 0\nCareer total points for Sergey Sirotkin: 1.0\nCareer total races for Sergey Sirotkin: 21\nNationality: Russian\nDate of Birth: 1995-08-27\nActive Seasons (in dataset): 2018\nTeams: Williams",
     "metadata": {
       "driverId": 719,
       "driver_name": "Sergey Sirotkin"
@@ -20967,7 +20967,7 @@
   {
     "chunk_id": "driver_career_727",
     "category": "driver_career",
-    "content": "Driver Career Profile: Scott Speed\nNationality: American\nDate of Birth: 1983-01-24\nActive Seasons (in dataset): 2006, 2007\nTeams: Toro Rosso\nTotal Races (in dataset): 28\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Scott Speed — All-Time Career Statistics\nCareer total wins for Scott Speed: 0\nCareer total podiums for Scott Speed: 0\nCareer total points for Scott Speed: 0.0\nCareer total races for Scott Speed: 28\nNationality: American\nDate of Birth: 1983-01-24\nActive Seasons (in dataset): 2006, 2007\nTeams: Toro Rosso",
     "metadata": {
       "driverId": 727,
       "driver_name": "Scott Speed"
@@ -20976,7 +20976,7 @@
   {
     "chunk_id": "driver_career_731",
     "category": "driver_career",
-    "content": "Driver Career Profile: Will Stevens\nNationality: British\nDate of Birth: 1991-06-28\nActive Seasons (in dataset): 2014, 2015\nTeams: Caterham, Manor Marussia\nTotal Races (in dataset): 19\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Will Stevens — All-Time Career Statistics\nCareer total wins for Will Stevens: 0\nCareer total podiums for Will Stevens: 0\nCareer total points for Will Stevens: 0.0\nCareer total races for Will Stevens: 19\nNationality: British\nDate of Birth: 1991-06-28\nActive Seasons (in dataset): 2014, 2015\nTeams: Caterham, Manor Marussia",
     "metadata": {
       "driverId": 731,
       "driver_name": "Will Stevens"
@@ -20985,7 +20985,7 @@
   {
     "chunk_id": "driver_career_739",
     "category": "driver_career",
-    "content": "Driver Career Profile: Lance Stroll\nNationality: Canadian\nDate of Birth: 1998-10-29\nActive Seasons (in dataset): 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Williams, Racing Point, Aston Martin\nTotal Races (in dataset): 194\nWins: 0\nPodiums: 3\nTotal Points: 315.0",
+    "content": "Driver Career Profile: Lance Stroll — All-Time Career Statistics\nCareer total wins for Lance Stroll: 0\nCareer total podiums for Lance Stroll: 3\nCareer total points for Lance Stroll: 315.0\nCareer total races for Lance Stroll: 194\nNationality: Canadian\nDate of Birth: 1998-10-29\nActive Seasons (in dataset): 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Williams, Racing Point, Aston Martin",
     "metadata": {
       "driverId": 739,
       "driver_name": "Lance Stroll"
@@ -20994,7 +20994,7 @@
   {
     "chunk_id": "driver_career_746",
     "category": "driver_career",
-    "content": "Driver Career Profile: Adrian Sutil\nNationality: German\nDate of Birth: 1983-01-11\nActive Seasons (in dataset): 2007, 2008, 2009, 2010, 2011, 2013, 2014\nTeams: Spyker, Force India, Sauber\nTotal Races (in dataset): 128\nWins: 0\nPodiums: 0\nTotal Points: 124.0",
+    "content": "Driver Career Profile: Adrian Sutil — All-Time Career Statistics\nCareer total wins for Adrian Sutil: 0\nCareer total podiums for Adrian Sutil: 0\nCareer total points for Adrian Sutil: 124.0\nCareer total races for Adrian Sutil: 128\nNationality: German\nDate of Birth: 1983-01-11\nActive Seasons (in dataset): 2007, 2008, 2009, 2010, 2011, 2013, 2014\nTeams: Spyker, Force India, Sauber",
     "metadata": {
       "driverId": 746,
       "driver_name": "Adrian Sutil"
@@ -21003,7 +21003,7 @@
   {
     "chunk_id": "driver_career_748",
     "category": "driver_career",
-    "content": "Driver Career Profile: Aguri Suzuki\nNationality: Japanese\nDate of Birth: 1960-09-08\nActive Seasons (in dataset): 1995\nTeams: Ligier\nTotal Races (in dataset): 6\nWins: 0\nPodiums: 0\nTotal Points: 1.0",
+    "content": "Driver Career Profile: Aguri Suzuki — All-Time Career Statistics\nCareer total wins for Aguri Suzuki: 0\nCareer total podiums for Aguri Suzuki: 0\nCareer total points for Aguri Suzuki: 1.0\nCareer total races for Aguri Suzuki: 6\nNationality: Japanese\nDate of Birth: 1960-09-08\nActive Seasons (in dataset): 1995\nTeams: Ligier",
     "metadata": {
       "driverId": 748,
       "driver_name": "Aguri Suzuki"
@@ -21012,7 +21012,7 @@
   {
     "chunk_id": "driver_career_752",
     "category": "driver_career",
-    "content": "Driver Career Profile: Toranosuke Takagi\nNationality: Japanese\nDate of Birth: 1974-02-12\nActive Seasons (in dataset): 1998, 1999\nTeams: Tyrrell, Arrows\nTotal Races (in dataset): 32\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Toranosuke Takagi — All-Time Career Statistics\nCareer total wins for Toranosuke Takagi: 0\nCareer total podiums for Toranosuke Takagi: 0\nCareer total points for Toranosuke Takagi: 0.0\nCareer total races for Toranosuke Takagi: 32\nNationality: Japanese\nDate of Birth: 1974-02-12\nActive Seasons (in dataset): 1998, 1999\nTeams: Tyrrell, Arrows",
     "metadata": {
       "driverId": 752,
       "driver_name": "Toranosuke Takagi"
@@ -21021,7 +21021,7 @@
   {
     "chunk_id": "driver_career_757",
     "category": "driver_career",
-    "content": "Driver Career Profile: Gabriele Tarquini\nNationality: Italian\nDate of Birth: 1962-03-02\nActive Seasons (in dataset): 1995\nTeams: Tyrrell\nTotal Races (in dataset): 1\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Gabriele Tarquini — All-Time Career Statistics\nCareer total wins for Gabriele Tarquini: 0\nCareer total podiums for Gabriele Tarquini: 0\nCareer total points for Gabriele Tarquini: 0.0\nCareer total races for Gabriele Tarquini: 1\nNationality: Italian\nDate of Birth: 1962-03-02\nActive Seasons (in dataset): 1995\nTeams: Tyrrell",
     "metadata": {
       "driverId": 757,
       "driver_name": "Gabriele Tarquini"
@@ -21030,7 +21030,7 @@
   {
     "chunk_id": "driver_career_778",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jarno Trulli\nNationality: Italian\nDate of Birth: 1974-07-13\nActive Seasons (in dataset): 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011\nTeams: Minardi, Prost, Jordan, Renault, Toyota, Lotus\nTotal Races (in dataset): 256\nWins: 1\nPodiums: 11\nTotal Points: 246.5",
+    "content": "Driver Career Profile: Jarno Trulli — All-Time Career Statistics\nCareer total wins for Jarno Trulli: 1\nCareer total podiums for Jarno Trulli: 11\nCareer total points for Jarno Trulli: 246.5\nCareer total races for Jarno Trulli: 256\nNationality: Italian\nDate of Birth: 1974-07-13\nActive Seasons (in dataset): 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011\nTeams: Minardi, Prost, Jordan, Renault, Toyota, Lotus",
     "metadata": {
       "driverId": 778,
       "driver_name": "Jarno Trulli"
@@ -21039,7 +21039,7 @@
   {
     "chunk_id": "driver_career_779",
     "category": "driver_career",
-    "content": "Driver Career Profile: Yuki Tsunoda\nNationality: Japanese\nDate of Birth: 2000-05-11\nActive Seasons (in dataset): 2021, 2022, 2023, 2024, 2025\nTeams: AlphaTauri, RB F1 Team, Red Bull\nTotal Races (in dataset): 114\nWins: 0\nPodiums: 0\nTotal Points: 108.0",
+    "content": "Driver Career Profile: Yuki Tsunoda — All-Time Career Statistics\nCareer total wins for Yuki Tsunoda: 0\nCareer total podiums for Yuki Tsunoda: 0\nCareer total points for Yuki Tsunoda: 108.0\nCareer total races for Yuki Tsunoda: 114\nNationality: Japanese\nDate of Birth: 2000-05-11\nActive Seasons (in dataset): 2021, 2022, 2023, 2024, 2025\nTeams: AlphaTauri, RB F1 Team, Red Bull",
     "metadata": {
       "driverId": 779,
       "driver_name": "Yuki Tsunoda"
@@ -21048,7 +21048,7 @@
   {
     "chunk_id": "driver_career_780",
     "category": "driver_career",
-    "content": "Driver Career Profile: Esteban Tuero\nNationality: Argentine\nDate of Birth: 1978-04-22\nActive Seasons (in dataset): 1998\nTeams: Minardi\nTotal Races (in dataset): 16\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Esteban Tuero — All-Time Career Statistics\nCareer total wins for Esteban Tuero: 0\nCareer total podiums for Esteban Tuero: 0\nCareer total points for Esteban Tuero: 0.0\nCareer total races for Esteban Tuero: 16\nNationality: Argentine\nDate of Birth: 1978-04-22\nActive Seasons (in dataset): 1998\nTeams: Minardi",
     "metadata": {
       "driverId": 780,
       "driver_name": "Esteban Tuero"
@@ -21057,7 +21057,7 @@
   {
     "chunk_id": "driver_career_788",
     "category": "driver_career",
-    "content": "Driver Career Profile: Stoffel Vandoorne\nNationality: Belgian\nDate of Birth: 1992-03-26\nActive Seasons (in dataset): 2016, 2017, 2018\nTeams: McLaren\nTotal Races (in dataset): 42\nWins: 0\nPodiums: 0\nTotal Points: 26.0",
+    "content": "Driver Career Profile: Stoffel Vandoorne — All-Time Career Statistics\nCareer total wins for Stoffel Vandoorne: 0\nCareer total podiums for Stoffel Vandoorne: 0\nCareer total points for Stoffel Vandoorne: 26.0\nCareer total races for Stoffel Vandoorne: 42\nNationality: Belgian\nDate of Birth: 1992-03-26\nActive Seasons (in dataset): 2016, 2017, 2018\nTeams: McLaren",
     "metadata": {
       "driverId": 788,
       "driver_name": "Stoffel Vandoorne"
@@ -21066,7 +21066,7 @@
   {
     "chunk_id": "driver_career_790",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jean-Éric Vergne\nNationality: French\nDate of Birth: 1990-04-25\nActive Seasons (in dataset): 2012, 2013, 2014\nTeams: Toro Rosso\nTotal Races (in dataset): 58\nWins: 0\nPodiums: 0\nTotal Points: 51.0",
+    "content": "Driver Career Profile: Jean-Éric Vergne — All-Time Career Statistics\nCareer total wins for Jean-Éric Vergne: 0\nCareer total podiums for Jean-Éric Vergne: 0\nCareer total points for Jean-Éric Vergne: 51.0\nCareer total races for Jean-Éric Vergne: 58\nNationality: French\nDate of Birth: 1990-04-25\nActive Seasons (in dataset): 2012, 2013, 2014\nTeams: Toro Rosso",
     "metadata": {
       "driverId": 790,
       "driver_name": "Jean-Éric Vergne"
@@ -21075,7 +21075,7 @@
   {
     "chunk_id": "driver_career_791",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jos Verstappen\nNationality: Dutch\nDate of Birth: 1972-03-04\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 2000, 2001, 2003\nTeams: Simtek, Footwork, Tyrrell, Stewart, Arrows, Minardi\nTotal Races (in dataset): 97\nWins: 0\nPodiums: 0\nTotal Points: 7.0",
+    "content": "Driver Career Profile: Jos Verstappen — All-Time Career Statistics\nCareer total wins for Jos Verstappen: 0\nCareer total podiums for Jos Verstappen: 0\nCareer total points for Jos Verstappen: 7.0\nCareer total races for Jos Verstappen: 97\nNationality: Dutch\nDate of Birth: 1972-03-04\nActive Seasons (in dataset): 1995, 1996, 1997, 1998, 2000, 2001, 2003\nTeams: Simtek, Footwork, Tyrrell, Stewart, Arrows, Minardi",
     "metadata": {
       "driverId": 791,
       "driver_name": "Jos Verstappen"
@@ -21084,7 +21084,7 @@
   {
     "chunk_id": "driver_career_792",
     "category": "driver_career",
-    "content": "Driver Career Profile: Max Verstappen\nNationality: Dutch\nDate of Birth: 1997-09-30\nActive Seasons (in dataset): 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Toro Rosso, Red Bull\nTotal Races (in dataset): 236\nWins: 71\nPodiums: 127\nTotal Points: 3313.5\nWorld Championships: 2021, 2022, 2023, 2024",
+    "content": "Driver Career Profile: Max Verstappen — All-Time Career Statistics\nCareer total wins for Max Verstappen: 71\nCareer total podiums for Max Verstappen: 127\nCareer total points for Max Verstappen: 3313.5\nCareer total races for Max Verstappen: 236\nNationality: Dutch\nDate of Birth: 1997-09-30\nActive Seasons (in dataset): 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026\nTeams: Toro Rosso, Red Bull\nWorld Championship titles: 2021, 2022, 2023, 2024",
     "metadata": {
       "driverId": 792,
       "driver_name": "Max Verstappen"
@@ -21093,7 +21093,7 @@
   {
     "chunk_id": "driver_career_794",
     "category": "driver_career",
-    "content": "Driver Career Profile: Sebastian Vettel\nNationality: German\nDate of Birth: 1987-07-03\nActive Seasons (in dataset): 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022\nTeams: BMW Sauber, Toro Rosso, Red Bull, Ferrari, Aston Martin\nTotal Races (in dataset): 300\nWins: 53\nPodiums: 122\nTotal Points: 3098.0\nWorld Championships: 2010, 2011, 2012, 2013",
+    "content": "Driver Career Profile: Sebastian Vettel — All-Time Career Statistics\nCareer total wins for Sebastian Vettel: 53\nCareer total podiums for Sebastian Vettel: 122\nCareer total points for Sebastian Vettel: 3098.0\nCareer total races for Sebastian Vettel: 300\nNationality: German\nDate of Birth: 1987-07-03\nActive Seasons (in dataset): 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022\nTeams: BMW Sauber, Toro Rosso, Red Bull, Ferrari, Aston Martin\nWorld Championship titles: 2010, 2011, 2012, 2013",
     "metadata": {
       "driverId": 794,
       "driver_name": "Sebastian Vettel"
@@ -21102,7 +21102,7 @@
   {
     "chunk_id": "driver_career_796",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jacques Villeneuve\nNationality: Canadian\nDate of Birth: 1971-04-09\nActive Seasons (in dataset): 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006\nTeams: Williams, BAR, Renault, Sauber, BMW Sauber\nTotal Races (in dataset): 165\nWins: 11\nPodiums: 23\nTotal Points: 235.0\nWorld Championships: 1997",
+    "content": "Driver Career Profile: Jacques Villeneuve — All-Time Career Statistics\nCareer total wins for Jacques Villeneuve: 11\nCareer total podiums for Jacques Villeneuve: 23\nCareer total points for Jacques Villeneuve: 235.0\nCareer total races for Jacques Villeneuve: 165\nNationality: Canadian\nDate of Birth: 1971-04-09\nActive Seasons (in dataset): 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006\nTeams: Williams, BAR, Renault, Sauber, BMW Sauber\nWorld Championship titles: 1997",
     "metadata": {
       "driverId": 796,
       "driver_name": "Jacques Villeneuve"
@@ -21111,7 +21111,7 @@
   {
     "chunk_id": "driver_career_811",
     "category": "driver_career",
-    "content": "Driver Career Profile: Mark Webber\nNationality: Australian\nDate of Birth: 1976-08-27\nActive Seasons (in dataset): 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013\nTeams: Minardi, Jaguar, Williams, Red Bull\nTotal Races (in dataset): 217\nWins: 9\nPodiums: 42\nTotal Points: 1047.5",
+    "content": "Driver Career Profile: Mark Webber — All-Time Career Statistics\nCareer total wins for Mark Webber: 9\nCareer total podiums for Mark Webber: 42\nCareer total points for Mark Webber: 1047.5\nCareer total races for Mark Webber: 217\nNationality: Australian\nDate of Birth: 1976-08-27\nActive Seasons (in dataset): 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013\nTeams: Minardi, Jaguar, Williams, Red Bull",
     "metadata": {
       "driverId": 811,
       "driver_name": "Mark Webber"
@@ -21120,7 +21120,7 @@
   {
     "chunk_id": "driver_career_812",
     "category": "driver_career",
-    "content": "Driver Career Profile: Pascal Wehrlein\nNationality: German\nDate of Birth: 1994-10-18\nActive Seasons (in dataset): 2016, 2017\nTeams: Manor Marussia, Sauber\nTotal Races (in dataset): 39\nWins: 0\nPodiums: 0\nTotal Points: 6.0",
+    "content": "Driver Career Profile: Pascal Wehrlein — All-Time Career Statistics\nCareer total wins for Pascal Wehrlein: 0\nCareer total podiums for Pascal Wehrlein: 0\nCareer total points for Pascal Wehrlein: 6.0\nCareer total races for Pascal Wehrlein: 39\nNationality: German\nDate of Birth: 1994-10-18\nActive Seasons (in dataset): 2016, 2017\nTeams: Manor Marussia, Sauber",
     "metadata": {
       "driverId": 812,
       "driver_name": "Pascal Wehrlein"
@@ -21129,7 +21129,7 @@
   {
     "chunk_id": "driver_career_815",
     "category": "driver_career",
-    "content": "Driver Career Profile: Karl Wendlinger\nNationality: Austrian\nDate of Birth: 1968-12-20\nActive Seasons (in dataset): 1995\nTeams: Sauber\nTotal Races (in dataset): 6\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Karl Wendlinger — All-Time Career Statistics\nCareer total wins for Karl Wendlinger: 0\nCareer total podiums for Karl Wendlinger: 0\nCareer total points for Karl Wendlinger: 0.0\nCareer total races for Karl Wendlinger: 6\nNationality: Austrian\nDate of Birth: 1968-12-20\nActive Seasons (in dataset): 1995\nTeams: Sauber",
     "metadata": {
       "driverId": 815,
       "driver_name": "Karl Wendlinger"
@@ -21138,7 +21138,7 @@
   {
     "chunk_id": "driver_career_831",
     "category": "driver_career",
-    "content": "Driver Career Profile: Justin Wilson\nNationality: British\nDate of Birth: 1978-07-31\nActive Seasons (in dataset): 2003\nTeams: Minardi, Jaguar\nTotal Races (in dataset): 16\nWins: 0\nPodiums: 0\nTotal Points: 1.0",
+    "content": "Driver Career Profile: Justin Wilson — All-Time Career Statistics\nCareer total wins for Justin Wilson: 0\nCareer total podiums for Justin Wilson: 0\nCareer total points for Justin Wilson: 1.0\nCareer total races for Justin Wilson: 16\nNationality: British\nDate of Birth: 1978-07-31\nActive Seasons (in dataset): 2003\nTeams: Minardi, Jaguar",
     "metadata": {
       "driverId": 831,
       "driver_name": "Justin Wilson"
@@ -21147,7 +21147,7 @@
   {
     "chunk_id": "driver_career_834",
     "category": "driver_career",
-    "content": "Driver Career Profile: Markus Winkelhock\nNationality: German\nDate of Birth: 1980-06-13\nActive Seasons (in dataset): 2007\nTeams: Spyker\nTotal Races (in dataset): 1\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Markus Winkelhock — All-Time Career Statistics\nCareer total wins for Markus Winkelhock: 0\nCareer total podiums for Markus Winkelhock: 0\nCareer total points for Markus Winkelhock: 0.0\nCareer total races for Markus Winkelhock: 1\nNationality: German\nDate of Birth: 1980-06-13\nActive Seasons (in dataset): 2007\nTeams: Spyker",
     "metadata": {
       "driverId": 834,
       "driver_name": "Markus Winkelhock"
@@ -21156,7 +21156,7 @@
   {
     "chunk_id": "driver_career_837",
     "category": "driver_career",
-    "content": "Driver Career Profile: Alexander Wurz\nNationality: Austrian\nDate of Birth: 1974-02-15\nActive Seasons (in dataset): 1997, 1998, 1999, 2000, 2005, 2007\nTeams: Benetton, McLaren, Williams\nTotal Races (in dataset): 69\nWins: 0\nPodiums: 3\nTotal Points: 45.0",
+    "content": "Driver Career Profile: Alexander Wurz — All-Time Career Statistics\nCareer total wins for Alexander Wurz: 0\nCareer total podiums for Alexander Wurz: 3\nCareer total points for Alexander Wurz: 45.0\nCareer total races for Alexander Wurz: 69\nNationality: Austrian\nDate of Birth: 1974-02-15\nActive Seasons (in dataset): 1997, 1998, 1999, 2000, 2005, 2007\nTeams: Benetton, McLaren, Williams",
     "metadata": {
       "driverId": 837,
       "driver_name": "Alexander Wurz"
@@ -21165,7 +21165,7 @@
   {
     "chunk_id": "driver_career_838",
     "category": "driver_career",
-    "content": "Driver Career Profile: Sakon Yamamoto\nNationality: Japanese\nDate of Birth: 1982-07-09\nActive Seasons (in dataset): 2006, 2007, 2010\nTeams: Super Aguri, Spyker, HRT\nTotal Races (in dataset): 21\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Sakon Yamamoto — All-Time Career Statistics\nCareer total wins for Sakon Yamamoto: 0\nCareer total podiums for Sakon Yamamoto: 0\nCareer total points for Sakon Yamamoto: 0.0\nCareer total races for Sakon Yamamoto: 21\nNationality: Japanese\nDate of Birth: 1982-07-09\nActive Seasons (in dataset): 2006, 2007, 2010\nTeams: Super Aguri, Spyker, HRT",
     "metadata": {
       "driverId": 838,
       "driver_name": "Sakon Yamamoto"
@@ -21174,7 +21174,7 @@
   {
     "chunk_id": "driver_career_839",
     "category": "driver_career",
-    "content": "Driver Career Profile: Alex Yoong\nNationality: Malaysian\nDate of Birth: 1976-07-20\nActive Seasons (in dataset): 2001, 2002\nTeams: Minardi\nTotal Races (in dataset): 15\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Alex Yoong — All-Time Career Statistics\nCareer total wins for Alex Yoong: 0\nCareer total podiums for Alex Yoong: 0\nCareer total points for Alex Yoong: 0.0\nCareer total races for Alex Yoong: 15\nNationality: Malaysian\nDate of Birth: 1976-07-20\nActive Seasons (in dataset): 2001, 2002\nTeams: Minardi",
     "metadata": {
       "driverId": 839,
       "driver_name": "Alex Yoong"
@@ -21183,7 +21183,7 @@
   {
     "chunk_id": "driver_career_840",
     "category": "driver_career",
-    "content": "Driver Career Profile: Alessandro Zanardi\nNationality: Italian\nDate of Birth: 1966-10-23\nActive Seasons (in dataset): 1999\nTeams: Williams\nTotal Races (in dataset): 16\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Alessandro Zanardi — All-Time Career Statistics\nCareer total wins for Alessandro Zanardi: 0\nCareer total podiums for Alessandro Zanardi: 0\nCareer total points for Alessandro Zanardi: 0.0\nCareer total races for Alessandro Zanardi: 16\nNationality: Italian\nDate of Birth: 1966-10-23\nActive Seasons (in dataset): 1999\nTeams: Williams",
     "metadata": {
       "driverId": 840,
       "driver_name": "Alessandro Zanardi"
@@ -21192,7 +21192,7 @@
   {
     "chunk_id": "driver_career_842",
     "category": "driver_career",
-    "content": "Driver Career Profile: Guanyu Zhou\nNationality: Chinese\nDate of Birth: 1999-05-30\nActive Seasons (in dataset): 2022, 2023, 2024\nTeams: Alfa Romeo, Sauber\nTotal Races (in dataset): 68\nWins: 0\nPodiums: 0\nTotal Points: 16.0",
+    "content": "Driver Career Profile: Guanyu Zhou — All-Time Career Statistics\nCareer total wins for Guanyu Zhou: 0\nCareer total podiums for Guanyu Zhou: 0\nCareer total points for Guanyu Zhou: 16.0\nCareer total races for Guanyu Zhou: 68\nNationality: Chinese\nDate of Birth: 1999-05-30\nActive Seasons (in dataset): 2022, 2023, 2024\nTeams: Alfa Romeo, Sauber",
     "metadata": {
       "driverId": 842,
       "driver_name": "Guanyu Zhou"
@@ -21201,7 +21201,7 @@
   {
     "chunk_id": "driver_career_843",
     "category": "driver_career",
-    "content": "Driver Career Profile: Ricardo Zonta\nNationality: Brazilian\nDate of Birth: 1976-03-23\nActive Seasons (in dataset): 1999, 2000, 2001, 2004, 2005\nTeams: BAR, Jordan, Toyota\nTotal Races (in dataset): 37\nWins: 0\nPodiums: 0\nTotal Points: 3.0",
+    "content": "Driver Career Profile: Ricardo Zonta — All-Time Career Statistics\nCareer total wins for Ricardo Zonta: 0\nCareer total podiums for Ricardo Zonta: 0\nCareer total points for Ricardo Zonta: 3.0\nCareer total races for Ricardo Zonta: 37\nNationality: Brazilian\nDate of Birth: 1976-03-23\nActive Seasons (in dataset): 1999, 2000, 2001, 2004, 2005\nTeams: BAR, Jordan, Toyota",
     "metadata": {
       "driverId": 843,
       "driver_name": "Ricardo Zonta"
@@ -21210,7 +21210,7 @@
   {
     "chunk_id": "driver_career_846",
     "category": "driver_career",
-    "content": "Driver Career Profile: Jérôme d'Ambrosio\nNationality: Belgian\nDate of Birth: 1985-12-27\nActive Seasons (in dataset): 2011, 2012\nTeams: Virgin, Lotus F1\nTotal Races (in dataset): 20\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Jérôme d'Ambrosio — All-Time Career Statistics\nCareer total wins for Jérôme d'Ambrosio: 0\nCareer total podiums for Jérôme d'Ambrosio: 0\nCareer total points for Jérôme d'Ambrosio: 0.0\nCareer total races for Jérôme d'Ambrosio: 20\nNationality: Belgian\nDate of Birth: 1985-12-27\nActive Seasons (in dataset): 2011, 2012\nTeams: Virgin, Lotus F1",
     "metadata": {
       "driverId": 846,
       "driver_name": "Jérôme d'Ambrosio"
@@ -21219,7 +21219,7 @@
   {
     "chunk_id": "driver_career_848",
     "category": "driver_career",
-    "content": "Driver Career Profile: Cristiano da Matta\nNationality: Brazilian\nDate of Birth: 1973-09-19\nActive Seasons (in dataset): 2003, 2004\nTeams: Toyota\nTotal Races (in dataset): 28\nWins: 0\nPodiums: 0\nTotal Points: 13.0",
+    "content": "Driver Career Profile: Cristiano da Matta — All-Time Career Statistics\nCareer total wins for Cristiano da Matta: 0\nCareer total podiums for Cristiano da Matta: 0\nCareer total points for Cristiano da Matta: 13.0\nCareer total races for Cristiano da Matta: 28\nNationality: Brazilian\nDate of Birth: 1973-09-19\nActive Seasons (in dataset): 2003, 2004\nTeams: Toyota",
     "metadata": {
       "driverId": 848,
       "driver_name": "Cristiano da Matta"
@@ -21228,7 +21228,7 @@
   {
     "chunk_id": "driver_career_866",
     "category": "driver_career",
-    "content": "Driver Career Profile: Nyck de Vries\nNationality: Dutch\nDate of Birth: 1995-02-06\nActive Seasons (in dataset): 2022, 2023\nTeams: Williams, AlphaTauri\nTotal Races (in dataset): 11\nWins: 0\nPodiums: 0\nTotal Points: 2.0",
+    "content": "Driver Career Profile: Nyck de Vries — All-Time Career Statistics\nCareer total wins for Nyck de Vries: 0\nCareer total podiums for Nyck de Vries: 0\nCareer total points for Nyck de Vries: 2.0\nCareer total races for Nyck de Vries: 11\nNationality: Dutch\nDate of Birth: 1995-02-06\nActive Seasons (in dataset): 2022, 2023\nTeams: Williams, AlphaTauri",
     "metadata": {
       "driverId": 866,
       "driver_name": "Nyck de Vries"
@@ -21237,7 +21237,7 @@
   {
     "chunk_id": "driver_career_867",
     "category": "driver_career",
-    "content": "Driver Career Profile: Pedro de la Rosa\nNationality: Spanish\nDate of Birth: 1971-02-24\nActive Seasons (in dataset): 1999, 2000, 2001, 2002, 2005, 2006, 2010, 2011, 2012\nTeams: Arrows, Jaguar, McLaren, Sauber, HRT\nTotal Races (in dataset): 106\nWins: 0\nPodiums: 1\nTotal Points: 35.0",
+    "content": "Driver Career Profile: Pedro de la Rosa — All-Time Career Statistics\nCareer total wins for Pedro de la Rosa: 0\nCareer total podiums for Pedro de la Rosa: 1\nCareer total points for Pedro de la Rosa: 35.0\nCareer total races for Pedro de la Rosa: 106\nNationality: Spanish\nDate of Birth: 1971-02-24\nActive Seasons (in dataset): 1999, 2000, 2001, 2002, 2005, 2006, 2010, 2011, 2012\nTeams: Arrows, Jaguar, McLaren, Sauber, HRT",
     "metadata": {
       "driverId": 867,
       "driver_name": "Pedro de la Rosa"
@@ -21246,7 +21246,7 @@
   {
     "chunk_id": "driver_career_868",
     "category": "driver_career",
-    "content": "Driver Career Profile: Lucas di Grassi\nNationality: Brazilian\nDate of Birth: 1984-08-11\nActive Seasons (in dataset): 2010\nTeams: Virgin\nTotal Races (in dataset): 19\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Lucas di Grassi — All-Time Career Statistics\nCareer total wins for Lucas di Grassi: 0\nCareer total podiums for Lucas di Grassi: 0\nCareer total points for Lucas di Grassi: 0.0\nCareer total races for Lucas di Grassi: 19\nNationality: Brazilian\nDate of Birth: 1984-08-11\nActive Seasons (in dataset): 2010\nTeams: Virgin",
     "metadata": {
       "driverId": 868,
       "driver_name": "Lucas di Grassi"
@@ -21255,7 +21255,7 @@
   {
     "chunk_id": "driver_career_869",
     "category": "driver_career",
-    "content": "Driver Career Profile: Paul di Resta\nNationality: British\nDate of Birth: 1986-04-16\nActive Seasons (in dataset): 2011, 2012, 2013, 2017\nTeams: Force India, Williams\nTotal Races (in dataset): 59\nWins: 0\nPodiums: 0\nTotal Points: 121.0",
+    "content": "Driver Career Profile: Paul di Resta — All-Time Career Statistics\nCareer total wins for Paul di Resta: 0\nCareer total podiums for Paul di Resta: 0\nCareer total points for Paul di Resta: 121.0\nCareer total races for Paul di Resta: 59\nNationality: British\nDate of Birth: 1986-04-16\nActive Seasons (in dataset): 2011, 2012, 2013, 2017\nTeams: Force India, Williams",
     "metadata": {
       "driverId": 869,
       "driver_name": "Paul di Resta"
@@ -21264,7 +21264,7 @@
   {
     "chunk_id": "driver_career_873",
     "category": "driver_career",
-    "content": "Driver Career Profile: Giedo van der Garde\nNationality: Dutch\nDate of Birth: 1985-04-25\nActive Seasons (in dataset): 2013\nTeams: Caterham\nTotal Races (in dataset): 19\nWins: 0\nPodiums: 0\nTotal Points: 0.0",
+    "content": "Driver Career Profile: Giedo van der Garde — All-Time Career Statistics\nCareer total wins for Giedo van der Garde: 0\nCareer total podiums for Giedo van der Garde: 0\nCareer total points for Giedo van der Garde: 0.0\nCareer total races for Giedo van der Garde: 19\nNationality: Dutch\nDate of Birth: 1985-04-25\nActive Seasons (in dataset): 2013\nTeams: Caterham",
     "metadata": {
       "driverId": 873,
       "driver_name": "Giedo van der Garde"

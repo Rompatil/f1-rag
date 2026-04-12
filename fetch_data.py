@@ -20,6 +20,8 @@ from pathlib import Path
 
 try:
     import requests
+    import urllib3
+    urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
     USE_REQUESTS = True
 except ImportError:
     from urllib.request import urlopen, Request
@@ -36,7 +38,7 @@ def fetch_json(url: str, retries: int = 3) -> dict | None:
     for attempt in range(retries):
         try:
             if USE_REQUESTS:
-                resp = requests.get(url, timeout=30, headers={"User-Agent": "F1-RAG/1.0"})
+                resp = requests.get(url, timeout=30, headers={"User-Agent": "F1-RAG/1.0"}, verify=False)
                 if resp.status_code == 429:
                     wait = 2 ** (attempt + 1)
                     print(f"    ⏳ Rate limited, waiting {wait}s...")
@@ -47,8 +49,12 @@ def fetch_json(url: str, retries: int = 3) -> dict | None:
                 resp.raise_for_status()
                 data = resp.json()
             else:
+                import ssl
+                ctx = ssl.create_default_context()
+                ctx.check_hostname = False
+                ctx.verify_mode = ssl.CERT_NONE
                 req = Request(url, headers={"User-Agent": "F1-RAG/1.0"})
-                with urlopen(req, timeout=30) as resp:
+                with urlopen(req, timeout=30, context=ctx) as resp:
                     data = json.loads(resp.read().decode())
 
             time.sleep(DELAY)

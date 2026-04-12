@@ -367,18 +367,18 @@ class F1Chunker:
                         champ_wins.append(str(yr))
 
             lines = [
-                f"Driver Career Profile: {name}",
+                f"Driver Career Profile: {name} — All-Time Career Statistics",
+                f"Career total wins for {name}: {wins}",
+                f"Career total podiums for {name}: {podiums}",
+                f"Career total points for {name}: {total_points}",
+                f"Career total races for {name}: {total_races}",
                 f"Nationality: {nationality}",
                 f"Date of Birth: {dob}",
                 f"Active Seasons (in dataset): {', '.join(str(int(s)) for s in seasons)}",
                 f"Teams: {', '.join(teams)}",
-                f"Total Races (in dataset): {total_races}",
-                f"Wins: {wins}",
-                f"Podiums: {podiums}",
-                f"Total Points: {total_points}",
             ]
             if champ_wins:
-                lines.append(f"World Championships: {', '.join(champ_wins)}")
+                lines.append(f"World Championship titles: {', '.join(champ_wins)}")
 
             content = "\n".join(lines)
             chunks.append(Chunk(
