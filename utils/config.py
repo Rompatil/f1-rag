@@ -10,7 +10,7 @@ from pathlib import Path
 # Load .env — try python-dotenv first, fall back to manual parsing
 try:
     from dotenv import load_dotenv
-    load_dotenv()
+    load_dotenv(override=False)  # Don't override vars already set in environment
 except ImportError:
     _env_path = Path(__file__).resolve().parent.parent / ".env"
     if _env_path.exists():
